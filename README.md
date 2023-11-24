@@ -49,7 +49,7 @@
 <div>
 <p>
   <a href="https://dotnet.microsoft.com/pt-br/" target="_blank">
-    <img align="center" src="https://img.shields.io/badge/-.NET-05122A?style=flat&logo=.net&logoColor=fefefa" alt="react"/></a>&nbsp;
+    <img align="center" src="https://img.shields.io/badge/-.NET Core-05122A?style=flat&logo=.net&logoColor=fefefa" alt=".NET"/></a>&nbsp;
   <a href="https://angular.io/" target="_blank">
     <img align="center" src="https://img.shields.io/badge/-Angular-05122A?style=flat&logo=angular&logoColor=fefefa" alt="react"/></a>&nbsp;
   <a href="https://getbootstrap.com/" target="_blank">
