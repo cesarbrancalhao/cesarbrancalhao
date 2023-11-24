@@ -42,6 +42,8 @@
     <img align="center" src="https://img.shields.io/badge/-React-05122A?style=flat&logo=react&logoColor=fefefa" alt="react"/></a>&nbsp;
   <a href="https://tailwindcss.com/" target="_blank">
     <img align="center" src="https://img.shields.io/badge/-Tailwind-05122A?style=flat&logo=tailwindcss&logoColor=fefefa" alt="tailwind"/></a>&nbsp;
+  <a href="https://getbootstrap.com/" target="_blank">
+    <img align="center" src="https://img.shields.io/badge/-Bootstrap-05122A?style=flat&logo=bootstrap&logoColor=fefefa" alt="Python"/></a>&nbsp;
 </p><p>
 </p>
 </div>
@@ -52,8 +54,6 @@
     <img align="center" src="https://img.shields.io/badge/-.NET Core-05122A?style=flat&logo=.net&logoColor=fefefa" alt=".NET"/></a>&nbsp;
   <a href="https://angular.io/" target="_blank">
     <img align="center" src="https://img.shields.io/badge/-Angular-05122A?style=flat&logo=angular&logoColor=fefefa" alt="react"/></a>&nbsp;
-  <a href="https://getbootstrap.com/" target="_blank">
-    <img align="center" src="https://img.shields.io/badge/-Bootstrap-05122A?style=flat&logo=bootstrap&logoColor=fefefa" alt="Python"/></a>&nbsp;
   <a href="https://learn.microsoft.com/en-us/sql/sql-server/?view=sql-server-ver16" target="_blank">
     <img align="center" src="https://img.shields.io/badge/-SQL Server-05122A?style=flat&logo=microsoft-sql-server&logoColor=fefefa" alt="react"/></a>&nbsp;
 </p>
