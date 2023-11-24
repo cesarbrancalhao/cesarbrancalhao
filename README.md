@@ -1,6 +1,6 @@
 ## <img width="35" alt="about" src="https://raw.github.com/elizarov/elizarov/master/about.png">  Hey, I'm César! 👋🏻
 - Systems Analysis student
-- Full cycle developer
+- Fullstack developer
 - Graphic designer and tech enthusiast
 <div>
 <img align="right" width="340" src="https://i.pinimg.com/originals/e8/f4/53/e8f453469a3ec97ecd354df465d73913.gif"/>
