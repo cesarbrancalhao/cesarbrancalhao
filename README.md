@@ -7,34 +7,95 @@
 <h4>Stacks:</h4>
 <div>
 <p>
-  <a href="https://www.java.com/en/" target="_blank">
-    <img align="center" src="https://img.shields.io/badge/-Java-05122A?style=flat&logo=oracle&logoColor=fefefa" alt="Java"/></a>&nbsp;
-  <a href="https://www.python.org/" target="_blank">
-    <img align="center" src="https://img.shields.io/badge/-Python-05122A?style=flat&logo=python&logoColor=fefefa" alt="Python"/></a>&nbsp;
-  <a href="https://learn.microsoft.com/en-us/cpp/c-language/?view=msvc-170" target="_blank">
-    <img align="center" src="https://img.shields.io/badge/-C-05122A?style=flat&logo=c%2B%2B&logoColor=fefefa" alt="C"/></a>&nbsp;
-  <a href="https://learn.microsoft.com/pt-br/dotnet/csharp/" target="_blank">
-    <img align="center" src="https://img.shields.io/badge/C%23-05122A?style=flat&logo=c-sharp&logoColor=fefefa" alt="PHP"/></a>&nbsp;
-  <a href="https://www.php.net/" target="_blank">
-    <img align="center" src="https://img.shields.io/badge/-PHP-05122A?style=flat&logo=php&logoColor=fefefa" alt="PHP"/></a>&nbsp;
+  <a href="https://www.java.com/en/" target="_blank" style="text-decoration: none; color: green;">
+    <picture>
+      <source align="center" media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/badge/-Java-05122A?style=flat&logo=oracle&logoColor=fefefa" alt="Java"/>
+      <img align="center" src="https://img.shields.io/badge/-Java-fefefa?style=flat&logo=oracle&logoColor=05122a" alt="Java"/>
+    </picture>
+  </a>&nbsp;
+  <a href="https://www.python.org/" target="_blank" style="text-decoration: none; color: green;">
+  <picture>
+    <source align="center" media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/badge/-Python-05122A?style=flat&logo=python&logoColor=fefefa" alt="Python"/>
+    <img align="center" src="https://img.shields.io/badge/-Python-fefefa?style=flat&logo=python&logoColor=05122A" alt="Python"/>
+  </picture>
+</a>&nbsp;
+
+<a href="https://learn.microsoft.com/en-us/cpp/c-language/?view=msvc-170" target="_blank" style="text-decoration: none; color: green;">
+  <picture>
+    <source align="center" media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/badge/-C-05122A?style=flat&logo=c%2B%2B&logoColor=fefefa" alt="C"/>
+    <img align="center" src="https://img.shields.io/badge/-C-fefefa?style=flat&logo=c%2B%2B&logoColor=05122A" alt="C"/>
+  </picture>
+</a>&nbsp;
+
+<a href="https://learn.microsoft.com/pt-br/dotnet/csharp/" target="_blank" style="text-decoration: none; color: green;">
+  <picture>
+    <source align="center" media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/badge/C%23-05122A?style=flat&logo=c-sharp&logoColor=fefefa" alt="C#"/>
+    <img align="center" src="https://img.shields.io/badge/C%23-fefefa?style=flat&logo=c-sharp&logoColor=05122A" alt="C#"/>
+  </picture>
+</a>&nbsp;
+
+<a href="https://www.php.net/" target="_blank" style="text-decoration: none; color: green;">
+  <picture>
+    <source align="center" media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/badge/-PHP-05122A?style=flat&logo=php&logoColor=fefefa" alt="PHP"/>
+    <img align="center" src="https://img.shields.io/badge/-PHP-fefefa?style=flat&logo=php&logoColor=05122A" alt="PHP"/>
+  </picture>
+</a>&nbsp;
 </p><p>
   <a href="https://developer.mozilla.org/en-US/docs/Glossary/HTML5" target="_blank">
-    <img align="center" src="https://img.shields.io/badge/-Html5-05122A?style=flat&logo=html5&logoColor=fefefa" alt="HTML5"/></a>&nbsp;
-  <a href="https://www.css3.com/" target="_blank">
-    <img align="center" src="https://img.shields.io/badge/-Css3-05122A?style=flat&logo=css3&logoColor=fefefa" alt="CSS3"/></a>&nbsp;
-  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank">
-    <img align="center" src="https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript&logoColor=fefefa" alt="JavaScript"/></a>&nbsp;
-  <a href="https://www.typescriptlang.org/" target="_blank">
-    <img align="center" src="https://img.shields.io/badge/TypeScript-05122A?style=flat&logo=typescript&logoColor=fefefa" alt="TypeScript"/></a>&nbsp;
+  <picture>
+    <source align="center" media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/badge/-Html5-05122A?style=flat&logo=html5&logoColor=fefefa" alt="HTML5"/>
+    <img align="center" src="https://img.shields.io/badge/-Html5-fefefa?style=flat&logo=html5&logoColor=05122A" alt="HTML5"/>
+  </picture>
+</a>&nbsp;
+
+<a href="https://www.css3.com/" target="_blank">
+  <picture>
+    <source align="center" media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/badge/-Css3-05122A?style=flat&logo=css3&logoColor=fefefa" alt="CSS3"/>
+    <img align="center" src="https://img.shields.io/badge/-Css3-fefefa?style=flat&logo=css3&logoColor=05122A" alt="CSS3"/>
+  </picture>
+</a>&nbsp;
+
+<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank">
+  <picture>
+    <source align="center" media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript&logoColor=fefefa" alt="JavaScript"/>
+    <img align="center" src="https://img.shields.io/badge/-JavaScript-fefefa?style=flat&logo=javascript&logoColor=05122A" alt="JavaScript"/>
+  </picture>
+</a>&nbsp;
+
+<a href="https://www.typescriptlang.org/" target="_blank">
+  <picture>
+    <source align="center" media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/badge/TypeScript-05122A?style=flat&logo=typescript&logoColor=fefefa" alt="TypeScript"/>
+    <img align="center" src="https://img.shields.io/badge/TypeScript-fefefa?style=flat&logo=typescript&logoColor=05122A" alt="TypeScript"/>
+  </picture>
+</a>&nbsp;
 </p><p>
   <a href="https://git-scm.com/" target="_blank">
-    <img align="center" src="https://img.shields.io/badge/-Git-05122A?style=flat&logo=git&logoColor=fefefa" alt="Git"/></a>&nbsp;
-  <a href="https://vercel.com/" target="_blank">
-    <img align="center" src="https://img.shields.io/badge/-Vercel-05122A?style=flat&logo=vercel&logoColor=fefefa" alt="Vercel"/></a>&nbsp;
-  <a href="https://www.latex-project.org/about/" target="_blank">
-    <img align="center" src="https://img.shields.io/badge/-LaTeX-05122A?style=flat&logo=latex&logoColor=fefefa" alt="Latex"/></a>&nbsp;
-  <a href="https://www.mysql.com/" target="_blank">
-    <img align="center" src="https://img.shields.io/badge/-MySQL-05122A?style=flat&logo=rxdb&logoColor=fefefa" alt="MySQL"/></a>&nbsp;
+  <picture>
+    <source align="center" media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/badge/-Git-05122A?style=flat&logo=git&logoColor=fefefa" alt="Git"/>
+    <img align="center" src="https://img.shields.io/badge/-Git-fefefa?style=flat&logo=git&logoColor=05122A" alt="Git"/>
+  </picture>
+</a>&nbsp;
+
+<a href="https://vercel.com/" target="_blank">
+  <picture>
+    <source align="center" media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/badge/-Vercel-05122A?style=flat&logo=vercel&logoColor=fefefa" alt="Vercel"/>
+    <img align="center" src="https://img.shields.io/badge/-Vercel-fefefa?style=flat&logo=vercel&logoColor=05122A" alt="Vercel"/>
+  </picture>
+</a>&nbsp;
+
+<a href="https://www.latex-project.org/about/" target="_blank">
+  <picture>
+    <source align="center" media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/badge/-LaTeX-05122A?style=flat&logo=latex&logoColor=fefefa" alt="LaTeX"/>
+    <img align="center" src="https://img.shields.io/badge/-LaTeX-fefefa?style=flat&logo=latex&logoColor=05122A" alt="LaTeX"/>
+  </picture>
+</a>&nbsp;
+
+<a href="https://www.mysql.com/" target="_blank">
+  <picture>
+    <source align="center" media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/badge/-MySQL-05122A?style=flat&logo=rxdb&logoColor=fefefa" alt="MySQL"/>
+    <img align="center" src="https://img.shields.io/badge/-MySQL-fefefa?style=flat&logo=rxdb&logoColor=05122A" alt="MySQL"/>
+  </picture>
+</a>&nbsp;
   </p><p>
   <a href="https://spring.io/projects/spring-boot/" target="_blank">
     <img align="center" src="https://img.shields.io/badge/-Spring Boot-05122A?style=flat&logo=spring&logoColor=fefefa" alt="Python"/></a>&nbsp;
@@ -51,24 +112,57 @@
 <div>
 <p>
   <a href="https://dotnet.microsoft.com/pt-br/" target="_blank">
-    <img align="center" src="https://img.shields.io/badge/-.NET Core-05122A?style=flat&logo=.net&logoColor=fefefa" alt=".NET"/></a>&nbsp;
-  <a href="https://angular.io/" target="_blank">
-    <img align="center" src="https://img.shields.io/badge/-Angular-05122A?style=flat&logo=angular&logoColor=fefefa" alt="react"/></a>&nbsp;
-  <a href="https://learn.microsoft.com/en-us/sql/sql-server/?view=sql-server-ver16" target="_blank">
-    <img align="center" src="https://img.shields.io/badge/-SQL Server-05122A?style=flat&logo=microsoft-sql-server&logoColor=fefefa" alt="react"/></a>&nbsp;
+  <picture>
+    <source align="center" media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/badge/-.NET Core-05122A?style=flat&logo=.net&logoColor=fefefa" alt=".NET"/>
+    <img align="center" src="https://img.shields.io/badge/-.NET Core-fefefa?style=flat&logo=.net&logoColor=05122A" alt=".NET"/>
+  </picture>
+</a>&nbsp;
+
+<a href="https://angular.io/" target="_blank">
+  <picture>
+    <source align="center" media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/badge/-Angular-05122A?style=flat&logo=angular&logoColor=fefefa" alt="Angular"/>
+    <img align="center" src="https://img.shields.io/badge/-Angular-fefefa?style=flat&logo=angular&logoColor=05122A" alt="Angular"/>
+  </picture>
+</a>&nbsp;
+
+<a href="https://learn.microsoft.com/en-us/sql/sql-server/?view=sql-server-ver16" target="_blank">
+  <picture>
+    <source align="center" media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/badge/-SQL Server-05122A?style=flat&logo=microsoft-sql-server&logoColor=fefefa" alt="SQL Server"/>
+    <img align="center" src="https://img.shields.io/badge/-SQL Server-fefefa?style=flat&logo=microsoft-sql-server&logoColor=05122A" alt="SQL Server"/>
+  </picture>
+</a>&nbsp;
 </p>
 </div>
 <h4>Interest stacks:</h4>
 <div>
 <p>
   <a href="https://nodejs.org/en" target="_blank">
-    <img align="center" src="https://img.shields.io/badge/-Node.js-05122A?style=flat&logo=node.js&logoColor=fefefa" alt="Node.js"/></a>&nbsp;
-  <a href="https://go.dev/" target="_blank">
-    <img align="center" src="https://img.shields.io/badge/-Golang-05122A?style=flat&logo=go&logoColor=fefefa" alt="Go"/></a>&nbsp;
-  <a href="https://kotlinlang.org/" target="_blank">
-    <img align="center" src="https://img.shields.io/badge/-Kotlin-05122A?style=flat&logo=kotlin&logoColor=fefefa" alt="Go"/></a>&nbsp;
-  <a href="https://www.postgresql.org/" target="_blank">
-    <img align="center" src="https://img.shields.io/badge/-PostgreSQL-05122A?style=flat&logo=postgresql&logoColor=fefefa" alt="Go"/></a>&nbsp;
+  <picture>
+    <source align="center" media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/badge/-Node.js-05122A?style=flat&logo=node.js&logoColor=fefefa" alt="Node.js"/>
+    <img align="center" src="https://img.shields.io/badge/-Node.js-fefefa?style=flat&logo=node.js&logoColor=05122A" alt="Node.js"/>
+  </picture>
+</a>&nbsp;
+
+<a href="https://go.dev/" target="_blank">
+  <picture>
+    <source align="center" media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/badge/-Golang-05122A?style=flat&logo=go&logoColor=fefefa" alt="Go"/>
+    <img align="center" src="https://img.shields.io/badge/-Golang-fefefa?style=flat&logo=go&logoColor=05122A" alt="Go"/>
+  </picture>
+</a>&nbsp;
+
+<a href="https://kotlinlang.org/" target="_blank">
+  <picture>
+    <source align="center" media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/badge/-Kotlin-05122A?style=flat&logo=kotlin&logoColor=fefefa" alt="Kotlin"/>
+    <img align="center" src="https://img.shields.io/badge/-Kotlin-fefefa?style=flat&logo=kotlin&logoColor=05122A" alt="Kotlin"/>
+  </picture>
+</a>&nbsp;
+
+<a href="https://www.postgresql.org/" target="_blank">
+  <picture>
+    <source align="center" media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/badge/-PostgreSQL-05122A?style=flat&logo=postgresql&logoColor=fefefa" alt="PostgreSQL"/>
+    <img align="center" src="https://img.shields.io/badge/-PostgreSQL-fefefa?style=flat&logo=postgresql&logoColor=05122A" alt="PostgreSQL"/>
+  </picture>
+</a>&nbsp;
 </p>
 </div>
 </div>
