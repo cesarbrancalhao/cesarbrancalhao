@@ -80,6 +80,6 @@
 </picture>
 <picture>
 	<source width="43.3%"height="190px" media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats-cesarbrancalhao.vercel.app/api/top-langs/?username=cesarbrancalhao&layout=compact&hide_border=true&theme=transparent&text_color=f1f1ee&title_color=1aa7ec">
-	<img width="43.3%"height="190px" align="left" alt="" src="https://github-readme-stats-cesarbrancalhao.vercel.app/api/top-langs/?username=cesarbrancalhao&layout=compact&hide_border=true&theme=transparent&title_color=1d2570">
+	<img width="43.3%"height="190px" align="left" alt="" src="https://github-readme-stats-cesarbrancalhao.vercel.app/api/top-langs/?username=cesarbrancalhao&layout=compact&hide_border=true&theme=transparent&text_color=4b4b4b&title_color=1d2570">
 </picture>
 </div>
