@@ -74,6 +74,12 @@
 </div>
 <hr>
 <div align="center">
-    <img width="49%" height="196px" src="https://github-readme-stats-cesarbrancalhao.vercel.app/api?username=cesarbrancalhao&show_icons=true&count_private=true&hide_border=true&icon_color=aa6600&theme=transparent&rank_icon=percentile&title_color=aa6600" alt="" />
-    <img width="43.3%"height="190px" src="https://github-readme-stats-cesarbrancalhao.vercel.app/api/top-langs/?username=cesarbrancalhao&layout=compact&hide_border=true&theme=transparent&title_color=aa6600" alt="" />
+<picture>
+	<source width="49%" height="196px" media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats-cesarbrancalhao.vercel.app/api?username=cesarbrancalhao&show_icons=true&count_private=true&hide_border=true&theme=transparent&rank_icon=percentile&text_color=f1f1ee&icon_color=1aa7ec&title_color=1aa7ec">
+	<img width="43.3%"height="190px" align="left" alt="" src="https://github-readme-stats-cesarbrancalhao.vercel.app/api?username=cesarbrancalhao&show_icons=true&count_private=true&hide_border=true&theme=transparent&rank_icon=percentile&text_color=4b4b4b&icon_color=1d2570&title_color=1d2570">
+</picture>
+<picture>
+	<source width="43.3%"height="190px" media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats-cesarbrancalhao.vercel.app/api/top-langs/?username=cesarbrancalhao&layout=compact&hide_border=true&theme=transparent&text_color=f1f1ee&title_color=1aa7ec">
+	<img width="43.3%"height="190px" align="left" alt="" src="https://github-readme-stats-cesarbrancalhao.vercel.app/api/top-langs/?username=cesarbrancalhao&layout=compact&hide_border=true&theme=transparent&title_color=1d2570">
+</picture>
 </div>
