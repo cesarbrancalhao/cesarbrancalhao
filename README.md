@@ -98,13 +98,32 @@
 </a>&nbsp;
   </p><p>
   <a href="https://spring.io/projects/spring-boot/" target="_blank">
-    <img align="center" src="https://img.shields.io/badge/-Spring Boot-05122A?style=flat&logo=spring&logoColor=fefefa" alt="Python"/></a>&nbsp;
-  <a href="https://react.dev/" target="_blank">
-    <img align="center" src="https://img.shields.io/badge/-React-05122A?style=flat&logo=react&logoColor=fefefa" alt="react"/></a>&nbsp;
-  <a href="https://tailwindcss.com/" target="_blank">
-    <img align="center" src="https://img.shields.io/badge/-Tailwind-05122A?style=flat&logo=tailwindcss&logoColor=fefefa" alt="tailwind"/></a>&nbsp;
-  <a href="https://getbootstrap.com/" target="_blank">
-    <img align="center" src="https://img.shields.io/badge/-Bootstrap-05122A?style=flat&logo=bootstrap&logoColor=fefefa" alt="Python"/></a>&nbsp;
+  <picture>
+    <source align="center" media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/badge/-Spring Boot-05122A?style=flat&logo=spring&logoColor=fefefa" alt="Spring Boot"/>
+    <img align="center" src="https://img.shields.io/badge/-Spring Boot-fefefa?style=flat&logo=spring&logoColor=05122A" alt="Spring Boot"/>
+  </picture>
+</a>&nbsp;
+
+<a href="https://react.dev/" target="_blank">
+  <picture>
+    <source align="center" media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/badge/-React-05122A?style=flat&logo=react&logoColor=fefefa" alt="React"/>
+    <img align="center" src="https://img.shields.io/badge/-React-fefefa?style=flat&logo=react&logoColor=05122A" alt="React"/>
+  </picture>
+</a>&nbsp;
+
+<a href="https://tailwindcss.com/" target="_blank">
+  <picture>
+    <source align="center" media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/badge/-Tailwind-05122A?style=flat&logo=tailwindcss&logoColor=fefefa" alt="Tailwind"/>
+    <img align="center" src="https://img.shields.io/badge/-Tailwind-fefefa?style=flat&logo=tailwindcss&logoColor=05122A" alt="Tailwind"/>
+  </picture>
+</a>&nbsp;
+
+<a href="https://getbootstrap.com/" target="_blank">
+  <picture>
+    <source align="center" media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/badge/-Bootstrap-05122A?style=flat&logo=bootstrap&logoColor=fefefa" alt="Bootstrap"/>
+    <img align="center" src="https://img.shields.io/badge/-Bootstrap-fefefa?style=flat&logo=bootstrap&logoColor=05122A" alt="Bootstrap"/>
+  </picture>
+</a>&nbsp;
 </p><p>
 </p>
 </div>
