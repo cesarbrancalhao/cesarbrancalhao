@@ -189,10 +189,10 @@
 <div align="center">
 <picture>
 	<source width="49%" height="196px" media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats-cesarbrancalhao.vercel.app/api?username=cesarbrancalhao&show_icons=true&count_private=true&hide_border=true&theme=transparent&rank_icon=percentile&text_color=f1f1ee&icon_color=1aa7ec&title_color=1aa7ec">
-	<img width="49%" height="196px" alt="" src="https://github-readme-stats-cesarbrancalhao.vercel.app/api?username=cesarbrancalhao&show_icons=true&count_private=true&hide_border=true&theme=transparent&rank_icon=percentile&text_color=4b4b4b&icon_color=1d2570&title_color=1d2570">
+	<img width="49%" height="196px" alt="" src="https://github-readme-stats-cesarbrancalhao.vercel.app/api?username=cesarbrancalhao&show_icons=true&count_private=true&hide_border=true&theme=transparent&rank_icon=percentile&text_color=4b4b4b&icon_color=54aeff&title_color=54aeff">
 </picture>
 <picture>
 	<source width="43.3%"height="190px" media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats-cesarbrancalhao.vercel.app/api/top-langs/?username=cesarbrancalhao&layout=compact&hide_border=true&theme=transparent&text_color=f1f1ee&title_color=1aa7ec">
-	<img width="43.3%"height="190px" alt="" src="https://github-readme-stats-cesarbrancalhao.vercel.app/api/top-langs/?username=cesarbrancalhao&layout=compact&hide_border=true&theme=transparent&text_color=4b4b4b&title_color=1d2570">
+	<img width="43.3%"height="190px" alt="" src="https://github-readme-stats-cesarbrancalhao.vercel.app/api/top-langs/?username=cesarbrancalhao&layout=compact&hide_border=true&theme=transparent&text_color=4b4b4b&title_color=54aeff">
 </picture>
 </div>
