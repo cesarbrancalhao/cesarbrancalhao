@@ -127,7 +127,7 @@
 </p><p>
 </p>
 </div>
-<h4>Currently learning:</h4>
+<h4>Currently working with:</h4>
 <div>
 <p>
   <a href="https://dotnet.microsoft.com/pt-br/" target="_blank">
