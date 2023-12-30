@@ -150,18 +150,18 @@
     <img align="center" src="https://img.shields.io/badge/-SQL Server-0969da?style=flat&logo=microsoft-sql-server&logoColor=ffffff" alt="SQL Server"/>
   </picture>
 </a>&nbsp;
-</p>
-</div>
-<h4>Interest stacks:</h4>
-<div>
-<p>
-  <a href="https://nodejs.org/en" target="_blank">
+
+<a href="https://nodejs.org/en" target="_blank">
   <picture>
     <source align="center" media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/badge/-Node.js-05122A?style=flat&logo=node.js&logoColor=fefefa" alt="Node.js"/>
     <img align="center" src="https://img.shields.io/badge/-Node.js-0969da?style=flat&logo=node.js&logoColor=ffffff" alt="Node.js"/>
   </picture>
 </a>&nbsp;
-
+</p>
+</div>
+<h4>Interest stacks:</h4>
+<div>
+<p>
 <a href="https://go.dev/" target="_blank">
   <picture>
     <source align="center" media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/badge/-Golang-05122A?style=flat&logo=go&logoColor=fefefa" alt="Go"/>
@@ -195,3 +195,5 @@
 	<source width="43.3%"height="190px" media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats-cesarbrancalhao.vercel.app/api/top-langs/?username=cesarbrancalhao&layout=compact&hide_border=true&theme=transparent&text_color=f1f1ee&title_color=2f81f7">
 	<img width="43.3%"height="190px" alt="" src="https://github-readme-stats-cesarbrancalhao.vercel.app/api/top-langs/?username=cesarbrancalhao&layout=compact&hide_border=true&theme=transparent&text_color=4b4b4b&title_color=2f81f7">
 </picture>
+
+<img width="49%" height="196px" alt="" src="https://github-readme-stats-cesarbrancalhao.vercel.app/api/top-langs/?username=cesarbrancalhao&layout=compact&hide_border=true&theme=transparent&text_color=4b4b4b&title_color=2f81f7">
