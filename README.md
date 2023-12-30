@@ -196,4 +196,4 @@
 	<img width="43.3%"height="190px" alt="" src="https://github-readme-stats-cesarbrancalhao.vercel.app/api/top-langs/?username=cesarbrancalhao&layout=compact&hide_border=true&theme=transparent&text_color=4b4b4b&title_color=2f81f7">
 </picture>
 
-<img width="49%" height="196px" alt="" src="https://github-readme-stats-cesarbrancalhao.vercel.app/api/top-langs/?username=cesarbrancalhao&layout=compact&hide_border=true&theme=transparent&text_color=4b4b4b&title_color=2f81f7">
+<img width="1%" height="1px" alt="" src="">
