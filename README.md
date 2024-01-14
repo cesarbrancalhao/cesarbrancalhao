@@ -7,17 +7,11 @@
 <h4>Stacks:</h4>
 <div>
 <p>
-  <a href="https://www.java.com/en/" target="_blank" style="text-decoration: none; color: green;">
-    <picture>
-      <source align="center" media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/badge/-Java-05122A?style=flat&logo=oracle&logoColor=fefefa" alt="Java"/>
-      <img align="center" src="https://img.shields.io/badge/-Java-0969da?style=flat&logo=oracle" alt="Java"/>
-    </picture>
-  </a>&nbsp;
-  <a href="https://www.python.org/" target="_blank" style="text-decoration: none; color: green;">
-  <picture>
-    <source align="center" media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/badge/-Python-05122A?style=flat&logo=python&logoColor=fefefa" alt="Python"/>
-    <img align="center" src="https://img.shields.io/badge/-Python-0969da?style=flat&logo=python&logoColor=ffffff" alt="Python"/>
-  </picture>
+<a href="https://www.java.com/en/" target="_blank" style="text-decoration: none; color: green;">
+ <picture>
+  <source align="center" media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/badge/-Java-05122A?style=flat&logo=oracle&logoColor=fefefa" alt="Java"/>
+  <img align="center" src="https://img.shields.io/badge/-Java-0969da?style=flat&logo=oracle" alt="Java"/>
+ </picture>
 </a>&nbsp;
 
 <a href="https://learn.microsoft.com/en-us/cpp/c-language/?view=msvc-170" target="_blank" style="text-decoration: none; color: green;">
@@ -29,8 +23,8 @@
 
 <a href="https://learn.microsoft.com/pt-br/dotnet/csharp/" target="_blank" style="text-decoration: none; color: green;">
   <picture>
-    <source align="center" media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/badge/C%23-05122A?style=flat&logo=c-sharp&logoColor=fefefa" alt="C#"/>
-    <img align="center" src="https://img.shields.io/badge/C%23-0969da?style=flat&logo=c-sharp&logoColor=ffffff" alt="C#"/>
+    <source align="center" media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/badge/C%23-05122A?style=flat&logo=c%23&logoColor=fefefa" alt="C#"/>
+    <img align="center" src="https://img.shields.io/badge/C%23-0969da?style=flat&logo=c%23&logoColor=ffffff" alt="C#"/>
   </picture>
 </a>&nbsp;
 
@@ -38,6 +32,13 @@
   <picture>
     <source align="center" media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/badge/-PHP-05122A?style=flat&logo=php&logoColor=fefefa" alt="PHP"/>
     <img align="center" src="https://img.shields.io/badge/-PHP-0969da?style=flat&logo=php&logoColor=ffffff" alt="PHP"/>
+  </picture>
+</a>&nbsp;
+
+<a href="https://www.latex-project.org/about/" target="_blank">
+  <picture>
+    <source align="center" media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/badge/-LaTeX-05122A?style=flat&logo=latex&logoColor=fefefa" alt="LaTeX"/>
+    <img align="center" src="https://img.shields.io/badge/-LaTeX-0969da?style=flat&logo=latex&logoColor=ffffff" alt="LaTeX"/>
   </picture>
 </a>&nbsp;
 </p><p>
@@ -83,17 +84,17 @@
   </picture>
 </a>&nbsp;
 
-<a href="https://www.latex-project.org/about/" target="_blank">
-  <picture>
-    <source align="center" media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/badge/-LaTeX-05122A?style=flat&logo=latex&logoColor=fefefa" alt="LaTeX"/>
-    <img align="center" src="https://img.shields.io/badge/-LaTeX-0969da?style=flat&logo=latex&logoColor=ffffff" alt="LaTeX"/>
-  </picture>
-</a>&nbsp;
-
 <a href="https://www.mysql.com/" target="_blank">
   <picture>
     <source align="center" media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/badge/-MySQL-05122A?style=flat&logo=rxdb&logoColor=fefefa" alt="MySQL"/>
     <img align="center" src="https://img.shields.io/badge/-MySQL-0969da?style=flat&logo=rxdb&logoColor=ffffff" alt="MySQL"/>
+  </picture>
+</a>&nbsp;
+
+<a href="https://www.mongodb.com/" target="_blank">
+  <picture>
+    <source align="center" media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/badge/-MongoDB-05122A?style=flat&logo=mongodb&logoColor=fefefa" alt="MongoDB"/>
+    <img align="center" src="https://img.shields.io/badge/-MongoDB-0969da?style=flat&logo=mongodb&logoColor=ffffff" alt="MongoDB"/>
   </picture>
 </a>&nbsp;
   </p><p>
@@ -104,6 +105,13 @@
   </picture>
 </a>&nbsp;
 
+<a href="https://expressjs.com/" target="_blank">
+  <picture>
+    <source align="center" media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/badge/-Express.js-05122A?style=flat&logo=express&logoColor=fefefa" alt="EX"/>
+    <img align="center" src="https://img.shields.io/badge/-Express.js-0969da?style=flat&logo=express&logoColor=ffffff" alt="EX"/>
+  </picture>
+</a>&nbsp;
+</p><p>
 <a href="https://react.dev/" target="_blank">
   <picture>
     <source align="center" media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/badge/-React-05122A?style=flat&logo=react&logoColor=fefefa" alt="React"/>
