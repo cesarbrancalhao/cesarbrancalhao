@@ -196,7 +196,7 @@
 <hr>
 <p>
 	
-<img width="49%" height="196px" media="(prefers-color-scheme: dark)" src="https://github-readme-stats-cesarbrancalhao.vercel.app/api?username=cesarbrancalhao&show_icons=true&count_private=true&hide_border=true&theme=transparent&rank_icon=percentile&text_color=f1f1ee&icon_color=2f81f7&title_color=2f81f7"  alt=" ">
+<img width="49%" height="196px" media="(prefers-color-scheme: dark)" src="https://github-readme-stats-cesarbrancalhao.vercel.app/api?username=cesarbrancalhao&show_icons=true&count_private=true&hide_border=true&theme=transparent&rank_icon=github&text_color=f1f1ee&icon_color=2f81f7&title_color=2f81f7"  alt=" ">
 
 <img width="43.3%" height="190px" media="(prefers-color-scheme: dark)" src="https://github-readme-stats-cesarbrancalhao.vercel.app/api/top-langs/?username=cesarbrancalhao&layout=compact&hide_border=true&theme=transparent&text_color=f1f1ee&title_color=2f81f7" alt=" ">
 </p>
