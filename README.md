@@ -195,16 +195,8 @@
 </div>
 <hr>
 <p>
-<a href="https://github.com/anuraghazra/github-readme-stats" target="_blank">
-	<picture>
-		<source width="49%" height="196px" media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats-cesarbrancalhao.vercel.app/api?username=cesarbrancalhao&show_icons=true&count_private=true&hide_border=true&theme=transparent&rank_icon=percentile&text_color=f1f1ee&icon_color=2f81f7&title_color=2f81f7"  alt=" ">
-		<img width="49%" height="196px" src="https://github-readme-stats-cesarbrancalhao.vercel.app/api?username=cesarbrancalhao&show_icons=true&count_private=true&hide_border=true&theme=transparent&rank_icon=percentile&text_color=4b4b4b&icon_color=0969da&title_color=0969da" alt=" ">
-	</picture>
-</a>
-<a href="https://github.com/anuraghazra/github-readme-stats" target="_blank">
-	<picture align="right">
-		<source width="43.3%" height="190px" media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats-cesarbrancalhao.vercel.app/api/top-langs/?username=cesarbrancalhao&layout=compact&hide_border=true&theme=transparent&text_color=f1f1ee&title_color=2f81f7" alt=" ">
-		<img width="43.3%" height="190px" src="https://github-readme-stats-cesarbrancalhao.vercel.app/api/top-langs/?username=cesarbrancalhao&layout=compact&hide_border=true&theme=transparent&text_color=4b4b4b&title_color=2f81f7" alt=" ">
-	</picture>
-</a>
+	
+<img width="49%" height="196px" media="(prefers-color-scheme: dark)" src="https://github-readme-stats-cesarbrancalhao.vercel.app/api?username=cesarbrancalhao&show_icons=true&count_private=true&hide_border=true&theme=transparent&rank_icon=percentile&text_color=f1f1ee&icon_color=2f81f7&title_color=2f81f7"  alt=" ">
+
+<img width="43.3%" height="190px" media="(prefers-color-scheme: dark)" src="https://github-readme-stats-cesarbrancalhao.vercel.app/api/top-langs/?username=cesarbrancalhao&layout=compact&hide_border=true&theme=transparent&text_color=f1f1ee&title_color=2f81f7" alt=" ">
 </p>
