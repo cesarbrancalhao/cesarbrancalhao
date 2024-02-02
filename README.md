@@ -1,10 +1,12 @@
-## <img width="35" alt="about" src="https://raw.github.com/elizarov/elizarov/master/about.png">  Hey, I'm César! 👋🏻
+## Hey, I'm César! 👋🏻
+#### About me:
 - Systems Analysis student
 - Fullstack developer
-- Graphic designer and tech enthusiast
+- Tech enthusiast, hardware nerd
 <div>
 <img align="right" width="340" src="https://i.pinimg.com/originals/e8/f4/53/e8f453469a3ec97ecd354df465d73913.gif"/>
-<h4>Stacks:</h4>
+
+#### Stacks:
 <div>
 <p>
 <a href="https://www.java.com/en/" target="_blank" style="text-decoration: none; color: green;">
@@ -135,7 +137,7 @@
 </p><p>
 </p>
 </div>
-<h4>Currently working with:</h4>
+#### Currently working with:
 <div>
 <p>
   <a href="https://dotnet.microsoft.com/pt-br/" target="_blank">
@@ -167,7 +169,8 @@
 </a>&nbsp;
 </p>
 </div>
-<h4>Interest stacks:</h4>
+
+#### Interest stacks:
 <div>
 <p>
 <a href="https://go.dev/" target="_blank">
@@ -193,8 +196,7 @@
 </p>
 </div>
 </div>
-<hr>
-
+<hr/>
 <div align="center">
 	<picture>
 		<source width="49%" height="196px" media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=cesarbrancalhao&show_icons=true&count_private=true&hide_border=true&theme=transparent&rank_icon=github&text_color=f1f1ee&icon_color=2f81f7&title_color=2f81f7"  alt=" ">
