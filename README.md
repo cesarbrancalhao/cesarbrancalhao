@@ -1,5 +1,4 @@
-## Hey, I'm César! 👋🏻
-#### About me:
+### About me:
 - Systems Analysis student
 - Fullstack developer
 - Tech enthusiast, hardware nerd
@@ -137,6 +136,7 @@
 </p><p>
 </p>
 </div>
+
 #### Currently working with:
 <div>
 <p>
@@ -163,14 +163,14 @@
 
 <a href="https://nodejs.org/en" target="_blank">
   <picture>
-    <source align="center" media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/badge/-Node.js-05122A?style=flat&logo=node.js&logoColor=fefefa" alt="Node.js"/>
-    <img align="center" src="https://img.shields.io/badge/-Node.js-0969da?style=flat&logo=node.js&logoColor=ffffff" alt="Node.js"/>
+    <source align="center" media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/badge/-NodeJS-05122A?style=flat&logo=node.js&logoColor=fefefa" alt="Node.js"/>
+    <img align="center" src="https://img.shields.io/badge/-NodeJS-0969da?style=flat&logo=node.js&logoColor=ffffff" alt="Node.js"/>
   </picture>
 </a>&nbsp;
 </p>
 </div>
 
-#### Interest stacks:
+#### Interested in:
 <div>
 <p>
 <a href="https://go.dev/" target="_blank">
@@ -180,10 +180,10 @@
   </picture>
 </a>&nbsp;
 
-<a href="https://kotlinlang.org/" target="_blank">
+<a href="https://nestjs.com/" target="_blank">
   <picture>
-    <source align="center" media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/badge/-Kotlin-05122A?style=flat&logo=kotlin&logoColor=fefefa" alt="Kotlin"/>
-    <img align="center" src="https://img.shields.io/badge/-Kotlin-0969da?style=flat&logo=kotlin&logoColor=ffffff" alt="Kotlin"/>
+    <source align="center" media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/badge/-NestJS-05122A?style=flat&logo=nestjs&logoColor=fefefa" alt="NestJS"/>
+    <img align="center" src="https://img.shields.io/badge/-NestJS-0969da?style=flat&logo=nestjs&logoColor=ffffff" alt="NestJS"/>
   </picture>
 </a>&nbsp;
 
