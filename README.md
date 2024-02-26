@@ -1,11 +1,86 @@
 ### About me:
 - Systems Analysis student
-- Fullstack developer
-- Tech enthusiast, hardware nerd
+- Web developer
+- Tech enthusiast
 <div>
 <img align="right" width="340" src="https://i.pinimg.com/originals/e8/f4/53/e8f453469a3ec97ecd354df465d73913.gif"/>
 
-#### Stacks:
+#### Currently working with:
+<div>
+<p>
+
+<a href="https://nestjs.com/" target="_blank">
+  <picture>
+    <source align="center" media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/badge/-NestJS-05122A?style=flat&logo=nestjs&logoColor=fefefa" alt="NestJS"/>
+    <img align="center" src="https://img.shields.io/badge/-NestJS-0969da?style=flat&logo=nestjs&logoColor=ffffff" alt="NestJS"/>
+  </picture>
+</a>&nbsp;
+
+<a href="https://nextjs.org//" target="_blank">
+  <picture>
+    <source align="center" media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/badge/-NextJS-05122A?style=flat&logo=next.js&logoColor=fefefa" alt="NextJS"/>
+    <img align="center" src="https://img.shields.io/badge/-NestJS-0969da?style=flat&logo=nestjs&logoColor=ffffff" alt="NestJS"/>
+  </picture>
+</a>&nbsp;
+
+<a href="https://tailwindcss.com/" target="_blank">
+  <picture>
+    <source align="center" media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/badge/-Tailwind-05122A?style=flat&logo=tailwindcss&logoColor=fefefa" alt="Tailwind"/>
+    <img align="center" src="https://img.shields.io/badge/-Tailwind-0969da?style=flat&logo=tailwindcss&logoColor=ffffff" alt="Tailwind"/>
+  </picture>
+</a>&nbsp;
+
+<a href="https://react.dev/" target="_blank">
+  <picture>
+    <source align="center" media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/badge/-React-05122A?style=flat&logo=react&logoColor=fefefa" alt="React"/>
+    <img align="center" src="https://img.shields.io/badge/-React-0969da?style=flat&logo=react&logoColor=ffffff" alt="React"/>
+  </picture>
+</a>&nbsp;
+
+</p><p>
+	
+<a href="https://nodejs.org/en" target="_blank">
+  <picture>
+    <source align="center" media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/badge/-NodeJS-05122A?style=flat&logo=node.js&logoColor=fefefa" alt="Node.js"/>
+    <img align="center" src="https://img.shields.io/badge/-NodeJS-0969da?style=flat&logo=node.js&logoColor=ffffff" alt="Node.js"/>
+  </picture>
+</a>&nbsp;
+
+<a href="https://www.mongodb.com/" target="_blank">
+  <picture>
+    <source align="center" media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/badge/-MongoDB-05122A?style=flat&logo=mongodb&logoColor=fefefa" alt="MongoDB"/>
+    <img align="center" src="https://img.shields.io/badge/-MongoDB-0969da?style=flat&logo=mongodb&logoColor=ffffff" alt="MongoDB"/>
+  </picture>
+</a>&nbsp;
+
+</p>
+</div>
+
+#### Other stacks:
+<div>
+<p>
+  <a href="https://dotnet.microsoft.com/pt-br/" target="_blank">
+  <picture>
+    <source align="center" media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/badge/-.NET Core-05122A?style=flat&logo=.net&logoColor=fefefa" alt=".NET"/>
+    <img align="center" src="https://img.shields.io/badge/-.NET Core-0969da?style=flat&logo=.net&logoColor=ffffff" alt=".NET"/>
+  </picture>
+</a>&nbsp;
+
+<a href="https://angular.io/" target="_blank">
+  <picture>
+    <source align="center" media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/badge/-Angular-05122A?style=flat&logo=angular&logoColor=fefefa" alt="Angular"/>
+    <img align="center" src="https://img.shields.io/badge/-Angular-0969da?style=flat&logo=angular&logoColor=ffffff" alt="Angular"/>
+  </picture>
+</a>&nbsp;
+
+<a href="https://learn.microsoft.com/en-us/sql/sql-server/?view=sql-server-ver16" target="_blank">
+  <picture>
+    <source align="center" media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/badge/-SQL Server-05122A?style=flat&logo=microsoft-sql-server&logoColor=fefefa" alt="SQL Server"/>
+    <img align="center" src="https://img.shields.io/badge/-SQL Server-0969da?style=flat&logo=microsoft-sql-server&logoColor=ffffff" alt="SQL Server"/>
+  </picture>
+</a>&nbsp;
+</p>
+</div>
 <div>
 <p>
 <a href="https://www.java.com/en/" target="_blank" style="text-decoration: none; color: green;">
@@ -91,15 +166,8 @@
     <img align="center" src="https://img.shields.io/badge/-MySQL-0969da?style=flat&logo=rxdb&logoColor=ffffff" alt="MySQL"/>
   </picture>
 </a>&nbsp;
-
-<a href="https://www.mongodb.com/" target="_blank">
-  <picture>
-    <source align="center" media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/badge/-MongoDB-05122A?style=flat&logo=mongodb&logoColor=fefefa" alt="MongoDB"/>
-    <img align="center" src="https://img.shields.io/badge/-MongoDB-0969da?style=flat&logo=mongodb&logoColor=ffffff" alt="MongoDB"/>
-  </picture>
-</a>&nbsp;
-  </p><p>
-  <a href="https://spring.io/projects/spring-boot/" target="_blank">
+</p><p>
+<a href="https://spring.io/projects/spring-boot/" target="_blank">
   <picture>
     <source align="center" media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/badge/-Spring Boot-05122A?style=flat&logo=spring&logoColor=fefefa" alt="Spring Boot"/>
     <img align="center" src="https://img.shields.io/badge/-Spring Boot-0969da?style=flat&logo=spring&logoColor=ffffff" alt="Spring Boot"/>
@@ -110,20 +178,6 @@
   <picture>
     <source align="center" media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/badge/-Express.js-05122A?style=flat&logo=express&logoColor=fefefa" alt="EX"/>
     <img align="center" src="https://img.shields.io/badge/-Express.js-0969da?style=flat&logo=express&logoColor=ffffff" alt="EX"/>
-  </picture>
-</a>&nbsp;
-</p><p>
-<a href="https://react.dev/" target="_blank">
-  <picture>
-    <source align="center" media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/badge/-React-05122A?style=flat&logo=react&logoColor=fefefa" alt="React"/>
-    <img align="center" src="https://img.shields.io/badge/-React-0969da?style=flat&logo=react&logoColor=ffffff" alt="React"/>
-  </picture>
-</a>&nbsp;
-
-<a href="https://tailwindcss.com/" target="_blank">
-  <picture>
-    <source align="center" media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/badge/-Tailwind-05122A?style=flat&logo=tailwindcss&logoColor=fefefa" alt="Tailwind"/>
-    <img align="center" src="https://img.shields.io/badge/-Tailwind-0969da?style=flat&logo=tailwindcss&logoColor=ffffff" alt="Tailwind"/>
   </picture>
 </a>&nbsp;
 
@@ -137,39 +191,6 @@
 </p>
 </div>
 
-#### Currently working with:
-<div>
-<p>
-  <a href="https://dotnet.microsoft.com/pt-br/" target="_blank">
-  <picture>
-    <source align="center" media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/badge/-.NET Core-05122A?style=flat&logo=.net&logoColor=fefefa" alt=".NET"/>
-    <img align="center" src="https://img.shields.io/badge/-.NET Core-0969da?style=flat&logo=.net&logoColor=ffffff" alt=".NET"/>
-  </picture>
-</a>&nbsp;
-
-<a href="https://angular.io/" target="_blank">
-  <picture>
-    <source align="center" media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/badge/-Angular-05122A?style=flat&logo=angular&logoColor=fefefa" alt="Angular"/>
-    <img align="center" src="https://img.shields.io/badge/-Angular-0969da?style=flat&logo=angular&logoColor=ffffff" alt="Angular"/>
-  </picture>
-</a>&nbsp;
-
-<a href="https://learn.microsoft.com/en-us/sql/sql-server/?view=sql-server-ver16" target="_blank">
-  <picture>
-    <source align="center" media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/badge/-SQL Server-05122A?style=flat&logo=microsoft-sql-server&logoColor=fefefa" alt="SQL Server"/>
-    <img align="center" src="https://img.shields.io/badge/-SQL Server-0969da?style=flat&logo=microsoft-sql-server&logoColor=ffffff" alt="SQL Server"/>
-  </picture>
-</a>&nbsp;
-
-<a href="https://nodejs.org/en" target="_blank">
-  <picture>
-    <source align="center" media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/badge/-NodeJS-05122A?style=flat&logo=node.js&logoColor=fefefa" alt="Node.js"/>
-    <img align="center" src="https://img.shields.io/badge/-NodeJS-0969da?style=flat&logo=node.js&logoColor=ffffff" alt="Node.js"/>
-  </picture>
-</a>&nbsp;
-</p>
-</div>
-
 #### Interested in:
 <div>
 <p>
@@ -177,13 +198,6 @@
   <picture>
     <source align="center" media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/badge/-Golang-05122A?style=flat&logo=go&logoColor=fefefa" alt="Go"/>
     <img align="center" src="https://img.shields.io/badge/-Golang-0969da?style=flat&logo=go&logoColor=ffffff" alt="Go"/>
-  </picture>
-</a>&nbsp;
-
-<a href="https://nestjs.com/" target="_blank">
-  <picture>
-    <source align="center" media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/badge/-NestJS-05122A?style=flat&logo=nestjs&logoColor=fefefa" alt="NestJS"/>
-    <img align="center" src="https://img.shields.io/badge/-NestJS-0969da?style=flat&logo=nestjs&logoColor=ffffff" alt="NestJS"/>
   </picture>
 </a>&nbsp;
 
