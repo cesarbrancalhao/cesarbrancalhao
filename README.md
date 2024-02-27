@@ -1,19 +1,10 @@
-<picture>
-	<source align="right" width="500px" media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/wakatime?username=cesarbrancalhao&layout=compact&hide_border=true&theme=transparent&text_color=f1f1ee&title_color=2f81f7" alt=" ">
-	<img align="right" width="500px" src="https://github-readme-stats.vercel.app/api/wakatime?username=cesarbrancalhao&layout=compact&hide_border=true&theme=transparent&text_color=4b4b4b&title_color=2f81f7" alt=" ">
-</picture>
-<picture>
-	<source align="right" width="500px" media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=cesarbrancalhao&show_icons=true&count_private=true&hide_border=true&theme=transparent&rank_icon=github&text_color=f1f1ee&icon_color=2f81f7&title_color=2f81f7"  alt=" ">
-	<img align="right" width="500px" src="https://github-readme-stats.vercel.app/api?username=cesarbrancalhao&show_icons=true&count_private=true&hide_border=true&theme=transparent&rank_icon=github&text_color=4b4b4b&icon_color=0969da&title_color=0969da" alt=" ">
-</picture>
-
-<div>
-	
 ### About me:
 - Systems Analysis student
 - Web developer
 - Tech enthusiast
-	
+<div>
+<img align="right" width="340" src="https://i.pinimg.com/originals/e8/f4/53/e8f453469a3ec97ecd354df465d73913.gif"/>
+
 #### Working with:
 <div>
 <p>
@@ -204,4 +195,24 @@
 </a>&nbsp;
 </p>
 </div>
+</div>
+<hr/>
+<div align="center">
+	<picture>
+		<source width="49%" height="196px" media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=cesarbrancalhao&show_icons=true&count_private=true&hide_border=true&theme=transparent&rank_icon=github&text_color=f1f1ee&icon_color=2f81f7&title_color=2f81f7"  alt=" ">
+		<img width="49%" height="196px" src="https://github-readme-stats.vercel.app/api?username=cesarbrancalhao&show_icons=true&count_private=true&hide_border=true&theme=transparent&rank_icon=github&text_color=4b4b4b&icon_color=0969da&title_color=0969da" alt=" ">
+	</picture>
+	<picture>
+		<source width="43.3%" height="190px" media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=cesarbrancalhao&layout=compact&hide_border=true&theme=transparent&text_color=f1f1ee&title_color=2f81f7" alt=" ">
+		<img width="43.3%" height="190px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=cesarbrancalhao&layout=compact&hide_border=true&theme=transparent&text_color=4b4b4b&title_color=2f81f7" alt=" ">
+	</picture>
+</div>
+
+<h6 align="center">*The statistics above are limited to public repositories and do not encompass the actual numbers.</h6>
+
+<div align="center">
+	<picture>
+		<source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/wakatime?username=cesarbrancalhao&layout=compact&hide_border=true&theme=transparent&text_color=f1f1ee&title_color=2f81f7" alt=" ">
+		<img src="https://github-readme-stats.vercel.app/api/wakatime?username=cesarbrancalhao&layout=compact&hide_border=true&theme=transparent&text_color=4b4b4b&title_color=2f81f7" alt=" ">
+	</picture>
 </div>
