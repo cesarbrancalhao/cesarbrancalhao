@@ -3,8 +3,8 @@
 	<img align="right" width="500px" src="https://github-readme-stats.vercel.app/api/wakatime?username=cesarbrancalhao&hide_border=true&theme=transparent&text_color=4b4b4b&title_color=2f81f7&custom_title=Most%20used%20languages&layout=compact" alt=" ">
 </picture>
 <picture>
-	<source align="right" width="500px" media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=cesarbrancalhao&show_icons=true&count_private=true&hide_border=true&theme=transparent&rank_icon=github&text_color=f1f1ee&icon_color=2f81f7&title_color=2f81f7&show=prs_merged&hide=contribs&text_bold=false&custom_title=GitHub%20Stats"  alt=" ">
-	<img align="right" width="500px" src="https://github-readme-stats.vercel.app/api?username=cesarbrancalhao&show_icons=true&count_private=true&hide_border=true&theme=transparent&rank_icon=github&text_color=4b4b4b&icon_color=0969da&title_color=0969da&show=prs_merged&hide=contribs&text_bold=false&custom_title=GitHub%20Stats" alt=" ">
+	<source align="right" width="500px" media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=cesarbrancalhao&show_icons=true&count_private=true&hide_border=true&theme=transparent&rank_icon=github&text_color=f1f1ee&icon_color=2f81f7&title_color=2f81f7&show=prs_merged&hide=contribs&custom_title=GitHub%20Stats"  alt=" ">
+	<img align="right" width="500px" src="https://github-readme-stats.vercel.app/api?username=cesarbrancalhao&show_icons=true&count_private=true&hide_border=true&theme=transparent&rank_icon=github&text_color=4b4b4b&icon_color=0969da&title_color=0969da&show=prs_merged&hide=contribs&custom_title=GitHub%20Stats" alt=" ">
 </picture>
 <div>
 	
