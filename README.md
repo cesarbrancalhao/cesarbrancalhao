@@ -5,7 +5,7 @@
 <div>
 <img align="right" width="340" src="https://i.pinimg.com/originals/e8/f4/53/e8f453469a3ec97ecd354df465d73913.gif"/>
 
-#### Currently working with:
+#### Working with:
 <div>
 <p>
 
@@ -178,22 +178,22 @@
 </p>
 </div>
 
-#### Interested in:
+<!--#### Interested in:-->
 <div>
 <p>
-<a href="https://go.dev/" target="_blank">
+<!--<a href="https://go.dev/" target="_blank">
   <picture>
     <source align="center" media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/badge/-Golang-05122A?style=flat&logo=go&logoColor=fefefa" alt="Go"/>
     <img align="center" src="https://img.shields.io/badge/-Golang-0969da?style=flat&logo=go&logoColor=ffffff" alt="Go"/>
   </picture>
 </a>&nbsp;
-
 <a href="https://www.postgresql.org/" target="_blank">
   <picture>
     <source align="center" media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/badge/-PostgreSQL-05122A?style=flat&logo=postgresql&logoColor=fefefa" alt="PostgreSQL"/>
     <img align="center" src="https://img.shields.io/badge/-PostgreSQL-0969da?style=flat&logo=postgresql&logoColor=ffffff" alt="PostgreSQL"/>
   </picture>
-</a>&nbsp;
+</a>&nbsp;-->
+<br />
 </p>
 </div>
 </div>
