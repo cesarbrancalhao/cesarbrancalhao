@@ -116,10 +116,10 @@
   </picture>
 </a>&nbsp;
 
-<a href="https://maven.apache.org/" target="_blank">
+<a href="https://react.dev/" target="_blank">
   <picture>
-    <source align="center" media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/badge/-Maven-05122A?style=flat&logo=Apache%20Maven&logoColor=fefefa" alt="Maven"/>
-    <img align="center" src="https://img.shields.io/badge/-Maven-0969da?style=flat&logo=Apache%20Maven&logoColor=ffffff" alt="Maven"/>
+    <source align="center" media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/badge/-React-05122A?style=flat&logo=React&logoColor=fefefa" alt="React"/>
+    <img align="center" src="https://img.shields.io/badge/-React-0969da?style=flat&logo=React&logoColor=ffffff" alt="React"/>
   </picture>
 </a>&nbsp;
 
@@ -139,15 +139,15 @@
 
 <a href="https://rust-lang.org/" target="_blank">
   <picture>
-    <source align="center" media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/badge/-Rust-05122A?style=flat&logo=rust&logoColor=fefefa" alt="React"/>
-    <img align="center" src="https://img.shields.io/badge/-Rust-0969da?style=flat&logo=rust&logoColor=ffffff" alt="React"/>
+    <source align="center" media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/badge/-Rust-05122A?style=flat&logo=rust&logoColor=fefefa" alt="Rust"/>
+    <img align="center" src="https://img.shields.io/badge/-Rust-0969da?style=flat&logo=rust&logoColor=ffffff" alt="Rust"/>
   </picture>
 </a>&nbsp;
 
-<a href="https://getbootstrap.com/" target="_blank">
+<a href="" target="_blank">
   <picture>
-    <source align="center" media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/badge/-Bootstrap-05122A?style=flat&logo=bootstrap&logoColor=fefefa" alt="Bootstrap"/>
-    <img align="center" src="https://img.shields.io/badge/-Bootstrap-0969da?style=flat&logo=bootstrap&logoColor=ffffff" alt="Bootstrap"/>
+    <source align="center" media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/badge/-TypeScript-05122A?style=flat&logo=typescript&logoColor=fefefa" alt="=TypeScript"/>
+    <img align="center" src="https://img.shields.io/badge/-TypeScript-0969da?style=flat&logo=typescript&logoColor=ffffff" alt="TypeScript"/>
   </picture>
 </a>&nbsp;
 <!-- <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank">
@@ -195,10 +195,10 @@
     <img align="center" src="https://img.shields.io/badge/-Golang-0969da?style=flat&logo=go&logoColor=ffffff" alt="Go"/>
   </picture>
 </a>&nbsp;
-<a href="https://www.postgresql.org/" target="_blank">
+<a href="https://www.rabbitmq.com/" target="_blank">
   <picture>
-    <source align="center" media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/badge/-PostgreSQL-05122A?style=flat&logo=postgresql&logoColor=fefefa" alt="PostgreSQL"/>
-    <img align="center" src="https://img.shields.io/badge/-PostgreSQL-0969da?style=flat&logo=postgresql&logoColor=ffffff" alt="PostgreSQL"/>
+    <source align="center" media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/badge/-RabbitMQ-05122A?style=flat&logo=rabbitmq&logoColor=fefefa" alt="RabbitMQ"/>
+    <img align="center" src="https://img.shields.io/badge/-RabbitMQ-0969da?style=flat&logo=rabbitmq&logoColor=ffffff" alt="RabbitMQ"/>
   </picture>
 </a>&nbsp;
 </p>
