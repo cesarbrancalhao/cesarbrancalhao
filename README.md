@@ -11,8 +11,8 @@
 	
 ### About me:
 - Systems Analysis student
-- Web developer
-- Tech enthusiast
+- Fullstack web developer
+- Open source enthusiast
 	
 #### Working with:
 <div>
@@ -25,10 +25,10 @@
   </picture>
 </a>&nbsp;
 
-<a href="https://nextjs.org//" target="_blank">
+<a href="https://angular.io/" target="_blank">
   <picture>
-    <source align="center" media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/badge/-NextJS-05122A?style=flat&logo=next.js&logoColor=fefefa" alt="NextJS"/>
-    <img align="center" src="https://img.shields.io/badge/-NestJS-0969da?style=flat&logo=nestjs&logoColor=ffffff" alt="NestJS"/>
+    <source align="center" media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/badge/-Angular-05122A?style=flat&logo=angular&logoColor=fefefa" alt="Angular"/>
+    <img align="center" src="https://img.shields.io/badge/-Angular-0969da?style=flat&logo=angular&logoColor=ffffff" alt="Angular"/>
   </picture>
 </a>&nbsp;
 
@@ -46,7 +46,6 @@
   </picture>
 </a>&nbsp;
 </p><p>
-<!--( 
 <a href="https://www.typescriptlang.org/" target="_blank">
   <picture>
     <source align="center" media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/badge/TypeScript-05122A?style=flat&logo=typescript&logoColor=fefefa" alt="TypeScript"/>
@@ -55,8 +54,33 @@
 </a>&nbsp;
 <a href="https://expressjs.com/" target="_blank">
   <picture>
-    <source align="center" media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/badge/-Express.js-05122A?style=flat&logo=express&logoColor=fefefa" alt="EX"/>
-    <img align="center" src="https://img.shields.io/badge/-Express.js-0969da?style=flat&logo=express&logoColor=ffffff" alt="EX"/>
+    <source align="center" media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/badge/-Express.js-05122A?style=flat&logo=express&logoColor=fefefa" alt="Express"/>
+    <img align="center" src="https://img.shields.io/badge/-Express.js-0969da?style=flat&logo=express&logoColor=ffffff" alt="Express"/>
+  </picture>
+</a>&nbsp;
+<a href="https://www.postgresql.org/" target="_blank">
+  <picture>
+    <source align="center" media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/badge/-PostgreSQL-05122A?style=flat&logo=postgresql&logoColor=fefefa" alt="PostgreSQL"/>
+    <img align="center" src="https://img.shields.io/badge/-PostgreSQL-0969da?style=flat&logo=postgresql&logoColor=ffffff" alt="PostgreSQL"/>
+  </picture>
+</a>&nbsp;
+</p>
+</div>
+
+##### Other stacks:
+<div>
+<p>
+  <a href="https://dotnet.microsoft.com/pt-br/" target="_blank">
+  <picture>
+    <source align="center" media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/badge/-.NET Core-05122A?style=flat&logo=.net&logoColor=fefefa" alt=".NET"/>
+    <img align="center" src="https://img.shields.io/badge/-.NET Core-0969da?style=flat&logo=.net&logoColor=ffffff" alt=".NET"/>
+  </picture>
+</a>&nbsp;
+	
+<a href="https://nextjs.org//" target="_blank">
+  <picture>
+    <source align="center" media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/badge/-NextJS-05122A?style=flat&logo=next.js&logoColor=fefefa" alt="NextJS"/>
+    <img align="center" src="https://img.shields.io/badge/-NextJS-05122A?style=flat&logo=next.js&logoColor=fefefa" alt="NextJS"/>
   </picture>
 </a>&nbsp;
 <a href="https://nodejs.org/en" target="_blank">
@@ -64,73 +88,11 @@
     <source align="center" media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/badge/-NodeJS-05122A?style=flat&logo=node.js&logoColor=fefefa" alt="Node.js"/> 
     <img align="center" src="https://img.shields.io/badge/-NodeJS-0969da?style=flat&logo=node.js&logoColor=ffffff" alt="Node.js"/>
   </picture>
-</a>&nbsp; 
-)-->
-</p>
-</div>
-
-#### Other stacks:
-<div>
-<p>
-<!--<a href="https://learn.microsoft.com/pt-br/dotnet/csharp/" target="_blank" style="text-decoration: none; color: green;">
-  <picture>
-    <source align="center" media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/badge/C%23-05122A?style=flat&logo=c%23&logoColor=fefefa" alt="C#"/>
-    <img align="center" src="https://img.shields.io/badge/C%23-0969da?style=flat&logo=c%23&logoColor=ffffff" alt="C#"/>
-  </picture>
-</a>&nbsp;-->
-
-  <a href="https://dotnet.microsoft.com/pt-br/" target="_blank">
-  <picture>
-    <source align="center" media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/badge/-.NET Core-05122A?style=flat&logo=.net&logoColor=fefefa" alt=".NET"/>
-    <img align="center" src="https://img.shields.io/badge/-.NET Core-0969da?style=flat&logo=.net&logoColor=ffffff" alt=".NET"/>
-  </picture>
-</a>&nbsp;
-
-<a href="https://angular.io/" target="_blank">
-  <picture>
-    <source align="center" media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/badge/-Angular-05122A?style=flat&logo=angular&logoColor=fefefa" alt="Angular"/>
-    <img align="center" src="https://img.shields.io/badge/-Angular-0969da?style=flat&logo=angular&logoColor=ffffff" alt="Angular"/>
-  </picture>
-</a>&nbsp;
-
-<a href="https://learn.microsoft.com/en-us/sql/sql-server/?view=sql-server-ver16" target="_blank">
-  <picture>
-    <source align="center" media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/badge/-SQL Server-05122A?style=flat&logo=microsoft-sql-server&logoColor=fefefa" alt="SQL Server"/>
-    <img align="center" src="https://img.shields.io/badge/-SQL Server-0969da?style=flat&logo=microsoft-sql-server&logoColor=ffffff" alt="SQL Server"/>
-  </picture>
 </a>&nbsp;
 </p>
 </div>
 <div>
 <p>
-<!-- <a href="https://www.java.com/en/" target="_blank" style="text-decoration: none; color: green;">
- <picture>
-  <source align="center" media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/badge/-Java-05122A?style=flat&logo=oracle&logoColor=fefefa" alt="Java"/>
-  <img align="center" src="https://img.shields.io/badge/-Java-0969da?style=flat&logo=oracle" alt="Java"/>
- </picture>
-</a>&nbsp; -->
-
-<a href="https://spring.io/projects/spring-boot/" target="_blank">
-  <picture>
-    <source align="center" media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/badge/-Spring Boot-05122A?style=flat&logo=spring&logoColor=fefefa" alt="Spring Boot"/>
-    <img align="center" src="https://img.shields.io/badge/-Spring Boot-0969da?style=flat&logo=spring&logoColor=ffffff" alt="Spring Boot"/>
-  </picture>
-</a>&nbsp;
-
-<a href="https://react.dev/" target="_blank">
-  <picture>
-    <source align="center" media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/badge/-React-05122A?style=flat&logo=React&logoColor=fefefa" alt="React"/>
-    <img align="center" src="https://img.shields.io/badge/-React-0969da?style=flat&logo=React&logoColor=ffffff" alt="React"/>
-  </picture>
-</a>&nbsp;
-
-<a href="https://www.mysql.com/" target="_blank">
-  <picture>
-    <source align="center" media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/badge/-MySQL-05122A?style=flat&logo=rxdb&logoColor=fefefa" alt="MySQL"/>
-    <img align="center" src="https://img.shields.io/badge/-MySQL-0969da?style=flat&logo=rxdb&logoColor=ffffff" alt="MySQL"/>
-  </picture>
-</a>&nbsp;
-</p><p>
 <a href="https://learn.microsoft.com/en-us/cpp/c-language/?view=msvc-170" target="_blank" style="text-decoration: none; color: green;">
   <picture>
     <source align="center" media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/badge/-C++-05122A?style=flat&logo=c%2B%2B&logoColor=fefefa" alt="C"/>
@@ -144,19 +106,12 @@
     <img align="center" src="https://img.shields.io/badge/-Rust-0969da?style=flat&logo=rust&logoColor=ffffff" alt="Rust"/>
   </picture>
 </a>&nbsp;
-
-<a href="" target="_blank">
-  <picture>
-    <source align="center" media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/badge/-TypeScript-05122A?style=flat&logo=typescript&logoColor=fefefa" alt="=TypeScript"/>
-    <img align="center" src="https://img.shields.io/badge/-TypeScript-0969da?style=flat&logo=typescript&logoColor=ffffff" alt="TypeScript"/>
-  </picture>
-</a>&nbsp;
-<!-- <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank">
+<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank">
   <picture>
     <source align="center" media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript&logoColor=fefefa" alt="JavaScript"/>
     <img align="center" src="https://img.shields.io/badge/-JavaScript-0969da?style=flat&logo=javascript&logoColor=ffffff" alt="JavaScript"/>
   </picture>
-</a>&nbsp; -->
+</a>&nbsp;
 </p><p>
   <a href="https://git-scm.com/" target="_blank">
   <picture>
@@ -178,6 +133,24 @@
     <img align="center" src="https://img.shields.io/badge/-Docker-0969da?style=flat&logo=docker&logoColor=ffffff" alt="Docker"/>
   </picture>
 </a>&nbsp;
+</p>
+</div>
+<div>
+<p>
+<a href="https://www.mysql.com/" target="_blank">
+  <picture>
+    <source align="center" media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/badge/-MySQL-05122A?style=flat&logo=rxdb&logoColor=fefefa" alt="MySQL"/>
+    <img align="center" src="https://img.shields.io/badge/-MySQL-0969da?style=flat&logo=rxdb&logoColor=ffffff" alt="MySQL"/>
+  </picture>
+</a>&nbsp;
+
+<a href="https://learn.microsoft.com/en-us/sql/sql-server/?view=sql-server-ver16" target="_blank">
+  <picture>
+    <source align="center" media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/badge/-SQL Server-05122A?style=flat&logo=microsoft-sql-server&logoColor=fefefa" alt="SQL Server"/>
+    <img align="center" src="https://img.shields.io/badge/-SQL Server-0969da?style=flat&logo=microsoft-sql-server&logoColor=ffffff" alt="SQL Server"/>
+  </picture>
+</a>&nbsp;
+
 <a href="https://typeorm.io/" target="_blank">
   <picture>
     <source align="center" media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/badge/-TypeORM-05122A?style=flat&logo=microsoft-excel&logoColor=fefefa" alt="TypeORM"/>
@@ -187,7 +160,7 @@
 </p>
 </div>
 
-#### Interested in:
+##### Interested in:
 <div>
 <p>
 <a href="https://go.dev/" target="_blank">
