@@ -44,8 +44,8 @@
     <source align="center" media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/badge/-MongoDB-05122A?style=flat&logo=mongodb&logoColor=fefefa" alt="MongoDB"/>
     <img align="center" src="https://img.shields.io/badge/-MongoDB-0969da?style=flat&logo=mongodb&logoColor=ffffff" alt="MongoDB"/>
   </picture>
-</a>&nbsp;
-<br>
+</a>
+</div><div>
 <a href="https://www.typescriptlang.org/" target="_blank">
   <picture>
     <source align="center" media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/badge/TypeScript-05122A?style=flat&logo=typescript&logoColor=fefefa" alt="TypeScript"/>
