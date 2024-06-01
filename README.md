@@ -38,13 +38,6 @@
     <img align="center" src="https://img.shields.io/badge/-Tailwind-0969da?style=flat&logo=tailwindcss&logoColor=ffffff" alt="Tailwind"/>
   </picture>
 </a>&nbsp;
-
-<a href="https://www.mongodb.com/" target="_blank">
-  <picture>
-    <source align="center" media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/badge/-MongoDB-05122A?style=flat&logo=mongodb&logoColor=fefefa" alt="MongoDB"/>
-    <img align="center" src="https://img.shields.io/badge/-MongoDB-0969da?style=flat&logo=mongodb&logoColor=ffffff" alt="MongoDB"/>
-  </picture>
-</a>
 </div><div>
 <a href="https://www.typescriptlang.org/" target="_blank">
   <picture>
@@ -76,27 +69,28 @@
     <img align="center" src="https://img.shields.io/badge/-.NET Core-0969da?style=flat&logo=.net&logoColor=ffffff" alt=".NET"/>
   </picture>
 </a>&nbsp;
-	
+
+<a href="https://gin-gonic.com/" target="_blank">
+  <picture>
+    <source align="center" media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/badge/-Gin-05122A?style=flat&logo=gin&logoColor=fefefa" alt="Gin"/> 
+    <img align="center" src="https://img.shields.io/badge/-Gin-0969da?style=flat&logo=gin&logoColor=ffffff" alt="Gin"/>
+  </picture>
+</a>&nbsp;
+
 <a href="https://nextjs.org//" target="_blank">
   <picture>
     <source align="center" media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/badge/-NextJS-05122A?style=flat&logo=next.js&logoColor=fefefa" alt="NextJS"/>
     <img align="center" src="https://img.shields.io/badge/-NextJS-05122A?style=flat&logo=next.js&logoColor=fefefa" alt="NextJS"/>
   </picture>
 </a>&nbsp;
-<a href="https://nodejs.org/en" target="_blank">
-  <picture>
-    <source align="center" media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/badge/-NodeJS-05122A?style=flat&logo=node.js&logoColor=fefefa" alt="Node.js"/> 
-    <img align="center" src="https://img.shields.io/badge/-NodeJS-0969da?style=flat&logo=node.js&logoColor=ffffff" alt="Node.js"/>
-  </picture>
-</a>&nbsp;
 </p>
 </div>
 <div>
 <p>
-<a href="https://learn.microsoft.com/en-us/cpp/c-language/?view=msvc-170" target="_blank" style="text-decoration: none; color: green;">
+<a href="https://go.dev/" target="_blank">
   <picture>
-    <source align="center" media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/badge/-C++-05122A?style=flat&logo=c%2B%2B&logoColor=fefefa" alt="C"/>
-    <img align="center" src="https://img.shields.io/badge/-C++-0969da?style=flat&logo=c%2B%2B&logoColor=ffffff" alt="C"/>
+    <source align="center" media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/badge/-Go-05122A?style=flat&logo=go&logoColor=fefefa" alt="Go"/>
+    <img align="center" src="https://img.shields.io/badge/-Go-0969da?style=flat&logo=go&logoColor=ffffff" alt="Go"/>
   </picture>
 </a>&nbsp;
 
@@ -151,28 +145,42 @@
   </picture>
 </a>&nbsp;
 
+<a href="https://www.mongodb.com/" target="_blank">
+  <picture>
+    <source align="center" media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/badge/-MongoDB-05122A?style=flat&logo=mongodb&logoColor=fefefa" alt="MongoDB"/>
+    <img align="center" src="https://img.shields.io/badge/-MongoDB-0969da?style=flat&logo=mongodb&logoColor=ffffff" alt="MongoDB"/>
+  </picture>
+</a>&nbsp;
+</p><p>
 <a href="https://typeorm.io/" target="_blank">
   <picture>
     <source align="center" media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/badge/-TypeORM-05122A?style=flat&logo=microsoft-excel&logoColor=fefefa" alt="TypeORM"/>
     <img align="center" src="https://img.shields.io/badge/-TypeORM-0969da?style=flat&logo=microsoft-excel&logoColor=ffffff" alt="TypeORM"/>
   </picture>
 </a>&nbsp;
-</p>
+
+ <a href="https://gorm.io/index.html" target="_blank">
+  <picture>
+    <source align="center" media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/badge/-GORM-05122A?style=flat&logo=goland&logoColor=fefefa" alt="GORM"/>
+    <img align="center" src="https://img.shields.io/badge/-GORM-0969da?style=flat&logo=goland&logoColor=ffffff" alt="GORM"/>
+  </picture>
+</a>&nbsp;
 </div>
 
 ##### Interested in:
 <div>
 <p>
-<a href="https://go.dev/" target="_blank">
-  <picture>
-    <source align="center" media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/badge/-Golang-05122A?style=flat&logo=go&logoColor=fefefa" alt="Go"/>
-    <img align="center" src="https://img.shields.io/badge/-Golang-0969da?style=flat&logo=go&logoColor=ffffff" alt="Go"/>
-  </picture>
-</a>&nbsp;
 <a href="https://www.rabbitmq.com/" target="_blank">
   <picture>
     <source align="center" media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/badge/-RabbitMQ-05122A?style=flat&logo=rabbitmq&logoColor=fefefa" alt="RabbitMQ"/>
     <img align="center" src="https://img.shields.io/badge/-RabbitMQ-0969da?style=flat&logo=rabbitmq&logoColor=ffffff" alt="RabbitMQ"/>
+  </picture>
+</a>&nbsp;
+
+<a href="https://redis.io/" target="_blank">
+  <picture>
+    <source align="center" media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/badge/-Redis-05122A?style=flat&logo=Redis&logoColor=fefefa" alt="Redis"/>
+    <img align="center" src="https://img.shields.io/badge/-Redis-0969da?style=flat&logo=Redis&logoColor=ffffff" alt="Redis"/>
   </picture>
 </a>&nbsp;
 </p>
