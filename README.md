@@ -1,6 +1,6 @@
 <a href="https://wakatime.com/@cesarbrancalhao" target="_blank"><picture>
-	<source align="right" width="500px" media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/wakatime?username=cesarbrancalhao&hide_border=true&theme=transparent&text_color=f1f1ee&title_color=52a447&custom_title=Most%20used%20languages%20(Since%2001/2024)&layout=compact&langs_count=18" alt=" ">
-	<img align="right" width="500px" src="https://github-readme-stats.vercel.app/api/wakatime?username=cesarbrancalhao&hide_border=true&theme=transparent&text_color=4b4b4b&title_color=2f81f7&custom_title=Most%20used%20languages%20(Since%2001/2024)&layout=compact&langs_count=18" alt=" ">
+	<source align="right" width="500px" media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/wakatime?username=cesarbrancalhao&hide_border=true&theme=transparent&text_color=f1f1ee&title_color=52a447&custom_title=Most%20used%20languages%20(Since%2001/2024)&layout=compact&langs_count=16" alt=" ">
+	<img align="right" width="500px" src="https://github-readme-stats.vercel.app/api/wakatime?username=cesarbrancalhao&hide_border=true&theme=transparent&text_color=4b4b4b&title_color=2f81f7&custom_title=Most%20used%20languages%20(Since%2001/2024)&layout=compact&langs_count=16" alt=" ">
 </picture>
 <picture>
 	<source align="right" width="500px" media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=cesarbrancalhao&show_icons=true&count_private=true&hide_border=true&theme=transparent&rank_icon=github&text_color=f1f1ee&icon_color=52a447&title_color=52a447&show=prs_merged&hide=contribs&custom_title=GitHub%20Stats"  alt=" ">
