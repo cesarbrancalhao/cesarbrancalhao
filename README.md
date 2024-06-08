@@ -11,7 +11,7 @@
 ### About me:
 - Systems Analysis student
 - Fullstack web developer
-- Mint evangelist
+- Linux Mint evangelist
 	
 #### Working with:
 <p>
