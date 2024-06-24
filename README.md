@@ -11,7 +11,7 @@
 ### About me:
 - Systems Analysis student
 - Fullstack web developer
-- <img src="https://wakatime.com/badge/user/018cfa9e-e367-4ade-b3c9-f6219e53ceb6.svg?style=social" alt="Total time coded since Jan 11 2024" />
+- Linux Mint evangelist
 	
 #### Working with:
 <p>
