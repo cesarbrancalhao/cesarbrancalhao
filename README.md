@@ -124,7 +124,7 @@
 </a>&nbsp;
 </p>
 
-##### Interested in:
+##### Learning:
 <p>
 <a href="https://www.rabbitmq.com/" target="_blank">
   <picture>
