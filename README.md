@@ -104,15 +104,15 @@
 </p><p>
 <a href="https://www.mysql.com/" target="_blank">
   <picture>
-    <source align="center" media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/badge/-MySQL-05122A?style=flat&logo=rxdb&logoColor=5bb450" alt="MySQL"/>
-    <img align="center" src="https://img.shields.io/badge/-MySQL-0969da?style=flat&logo=rxdb&logoColor=ffffff" alt="MySQL"/>
+    <source align="center" media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/badge/-MySQL-05122A?style=flat&logo=mysql&logoColor=5bb450" alt="MySQL"/>
+    <img align="center" src="https://img.shields.io/badge/-MySQL-0969da?style=flat&logo=mysql&logoColor=ffffff" alt="MySQL"/>
   </picture>
 </a>&nbsp;
 
 <a href="https://learn.microsoft.com/en-us/sql/sql-server/?view=sql-server-ver16" target="_blank">
   <picture>
-    <source align="center" media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/badge/-SQL-05122A?style=flat&logo=microsoft-sql-server&logoColor=5bb450" alt="SQL Server"/>
-    <img align="center" src="https://img.shields.io/badge/-SQL-0969da?style=flat&logo=microsoft-sql-server&logoColor=ffffff" alt="SQL Server"/>
+    <source align="center" media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/badge/-SQL-05122A?style=flat&logo=rxdb&logoColor=5bb450" alt="SQL Server"/>
+    <img align="center" src="https://img.shields.io/badge/-SQL-0969da?style=flat&logo=rxdb&logoColor=ffffff" alt="SQL Server"/>
   </picture>
 </a>&nbsp;
 
