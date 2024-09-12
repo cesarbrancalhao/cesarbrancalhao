@@ -13,7 +13,7 @@
 - Fullstack web developer
 - Linux Mint evangelist
 	
-#### Working with:
+#### Currently working with:
 <p>
 
 <a href="https://dotnet.microsoft.com/pt-br/" target="_blank">
@@ -44,12 +44,13 @@
   </picture>
 </a>&nbsp;
 
-<a href="https://typeorm.io/" target="_blank">
+<a href="https://learn.microsoft.com/en-us/sql/sql-server/?view=sql-server-ver16" target="_blank">
   <picture>
-    <source align="center" media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/badge/-TypeORM-05122A?style=flat&logo=microsoft-excel&logoColor=5bb450" alt="TypeORM"/>
-    <img align="center" src="https://img.shields.io/badge/-TypeORM-0969da?style=flat&logo=microsoft-excel&logoColor=ffffff" alt="TypeORM"/>
+    <source align="center" media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/badge/-SQL-05122A?style=flat&logo=rxdb&logoColor=5bb450" alt="SQL Server"/>
+    <img align="center" src="https://img.shields.io/badge/-SQL-0969da?style=flat&logo=rxdb&logoColor=ffffff" alt="SQL Server"/>
   </picture>
 </a>&nbsp;
+
 <a href="https://www.postgresql.org/" target="_blank">
   <picture>
     <source align="center" media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/badge/-PostgreSQL-05122A?style=flat&logo=postgresql&logoColor=5bb450" alt="PostgreSQL"/>
@@ -60,27 +61,50 @@
 
 ##### Other stacks:
 <p>
+<a href="https://www.rust-lang.org/" target="_blank">
+  <picture>
+    <source align="center" media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/badge/-Rust-05122A?style=flat&logo=rust&logoColor=5bb450" alt="Rust"/>
+    <img align="center" src="https://img.shields.io/badge/-Rust-0969da?style=flat&logo=rust&logoColor=ffffff" alt="Rust"/>
+  </picture>
+</a>&nbsp;
+	
 <a href="https://gin-gonic.com/" target="_blank">
   <picture>
     <source align="center" media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/badge/-Gin-05122A?style=flat&logo=gin&logoColor=5bb450" alt="Gin"/> 
     <img align="center" src="https://img.shields.io/badge/-Gin-0969da?style=flat&logo=gin&logoColor=ffffff" alt="Gin"/>
   </picture>
 </a>&nbsp;
-	
+
 <a href="https://gorm.io/index.html" target="_blank">
   <picture>
     <source align="center" media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/badge/-GORM-05122A?style=flat&logo=goland&logoColor=5bb450" alt="GORM"/>
     <img align="center" src="https://img.shields.io/badge/-GORM-0969da?style=flat&logo=goland&logoColor=ffffff" alt="GORM"/>
   </picture>
 </a>&nbsp;
-
+</p>
+<p>
 <a href="https://nestjs.com/" target="_blank">
   <picture>
     <source align="center" media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/badge/-NestJS-05122A?style=flat&logo=nestjs&logoColor=5bb450" alt="NestJS"/>
     <img align="center" src="https://img.shields.io/badge/-NestJS-0969da?style=flat&logo=nestjs&logoColor=ffffff" alt="NestJS"/>
   </picture>
 </a>&nbsp;
-</p><p>
+
+<a href="https://nextjs.org/" target="_blank">
+  <picture>
+    <source align="center" media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/badge/-NextJS-05122A?style=flat&logo=next.js&logoColor=5bb450" alt="NextJS"/>
+    <img align="center" src="https://img.shields.io/badge/-NextJS-0969da?style=flat&logo=next.js&logoColor=ffffff" alt="NextJS"/>
+  </picture>
+</a>&nbsp;
+
+<a href="https://typeorm.io/" target="_blank">
+  <picture>
+    <source align="center" media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/badge/-TypeORM-05122A?style=flat&logo=scala&logoColor=5bb450" alt="TypeORM"/>
+    <img align="center" src="https://img.shields.io/badge/-TypeORM-0969da?style=flat&logo=scala&logoColor=ffffff" alt="TypeORM"/>
+  </picture>
+</a>&nbsp;
+</p>
+<p>
 <a href="https://aws.amazon.com/" target="_blank">
   <picture>
     <source align="center" media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/badge/-AWS-05122A?style=flat&logo=iCloud&logoColor=5bb450" alt="AWS"/>
@@ -108,11 +132,11 @@
     <img align="center" src="https://img.shields.io/badge/-MySQL-0969da?style=flat&logo=mysql&logoColor=ffffff" alt="MySQL"/>
   </picture>
 </a>&nbsp;
-
-<a href="https://learn.microsoft.com/en-us/sql/sql-server/?view=sql-server-ver16" target="_blank">
+	
+<a href="https://redis.io/" target="_blank">
   <picture>
-    <source align="center" media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/badge/-SQL-05122A?style=flat&logo=rxdb&logoColor=5bb450" alt="SQL Server"/>
-    <img align="center" src="https://img.shields.io/badge/-SQL-0969da?style=flat&logo=rxdb&logoColor=ffffff" alt="SQL Server"/>
+    <source align="center" media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/badge/-Redis-05122A?style=flat&logo=Redis&logoColor=5bb450" alt="Redis"/>
+    <img align="center" src="https://img.shields.io/badge/-Redis-0969da?style=flat&logo=Redis&logoColor=ffffff" alt="Redis"/>
   </picture>
 </a>&nbsp;
 
@@ -130,13 +154,6 @@
   <picture>
     <source align="center" media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/badge/-RabbitMQ-05122A?style=flat&logo=rabbitmq&logoColor=5bb450" alt="RabbitMQ"/>
     <img align="center" src="https://img.shields.io/badge/-RabbitMQ-0969da?style=flat&logo=rabbitmq&logoColor=ffffff" alt="RabbitMQ"/>
-  </picture>
-</a>&nbsp;
-
-<a href="https://redis.io/" target="_blank">
-  <picture>
-    <source align="center" media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/badge/-Redis-05122A?style=flat&logo=Redis&logoColor=5bb450" alt="Redis"/>
-    <img align="center" src="https://img.shields.io/badge/-Redis-0969da?style=flat&logo=Redis&logoColor=ffffff" alt="Redis"/>
   </picture>
 </a>&nbsp;
 </p>
