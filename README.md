@@ -10,8 +10,7 @@
 	
 ### About me:
 - Systems Analysis student
-- Fullstack web developer
-- Linux Mint evangelist
+- Web/Mobile developer
 	
 #### Currently working with:
 <p>
