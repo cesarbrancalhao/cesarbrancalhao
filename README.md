@@ -11,6 +11,7 @@
 ### About me:
 - Systems Analysis student
 - Web/Mobile developer
+- Linux evangelist
 	
 #### Currently working with:
 <p>
