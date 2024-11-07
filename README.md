@@ -15,28 +15,20 @@
 	
 #### Currently working with:
 <p>
+<a href="https://go.dev/" target="_blank">
+  <picture>
+    <source align="center" media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/badge/-Golang-05122A?style=flat&logo=go&logoColor=5bb450" alt="Go"/> 
+    <img align="center" src="https://img.shields.io/badge/-Golang-0969da?style=flat&logo=go&logoColor=ffffff" alt="Go"/>
+  </picture>
+</a>&nbsp;
 
 <a href="https://gin-gonic.com/" target="_blank">
   <picture>
-    <source align="center" media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/badge/-Go/Gin-05122A?style=flat&logo=gin&logoColor=5bb450" alt="Gin"/> 
-    <img align="center" src="https://img.shields.io/badge/-Go/Gin-0969da?style=flat&logo=gin&logoColor=ffffff" alt="Gin"/>
+    <source align="center" media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/badge/-Gin-05122A?style=flat&logo=gin&logoColor=5bb450" alt="Gin"/> 
+    <img align="center" src="https://img.shields.io/badge/-Gin-0969da?style=flat&logo=gin&logoColor=ffffff" alt="Gin"/>
   </picture>
 </a>&nbsp;
 
-<a href="https://angular.io/" target="_blank">
-  <picture>
-    <source align="center" media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/badge/-Angular-05122A?style=flat&logo=angular&logoColor=5bb450" alt="Angular"/>
-    <img align="center" src="https://img.shields.io/badge/-Angular-0969da?style=flat&logo=angular&logoColor=ffffff" alt="Angular"/>
-  </picture>
-</a>&nbsp;
-
-<a href="https://tailwindcss.com/" target="_blank">
-  <picture>
-    <source align="center" media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/badge/-Tailwind-05122A?style=flat&logo=tailwindcss&logoColor=5bb450" alt="Tailwind"/>
-    <img align="center" src="https://img.shields.io/badge/-Tailwind-0969da?style=flat&logo=tailwindcss&logoColor=ffffff" alt="Tailwind"/>
-  </picture>
-</a>&nbsp;
-</p><p>
 <a href="https://git-scm.com/" target="_blank">
   <picture>
     <source align="center" media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/badge/-Git-05122A?style=flat&logo=git&logoColor=5bb450" alt="Git"/>
@@ -50,6 +42,20 @@
     <img align="center" src="https://img.shields.io/badge/-Docker-0969da?style=flat&logo=docker&logoColor=ffffff" alt="Docker"/>
   </picture>
 </a>&nbsp;
+</p><p>
+<a href="https://angular.io/" target="_blank">
+  <picture>
+    <source align="center" media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/badge/-Angular-05122A?style=flat&logo=angular&logoColor=5bb450" alt="Angular"/>
+    <img align="center" src="https://img.shields.io/badge/-Angular-0969da?style=flat&logo=angular&logoColor=ffffff" alt="Angular"/>
+  </picture>
+</a>&nbsp;
+
+<a href="https://tailwindcss.com/" target="_blank">
+  <picture>
+    <source align="center" media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/badge/-Tailwind-05122A?style=flat&logo=tailwindcss&logoColor=5bb450" alt="Tailwind"/>
+    <img align="center" src="https://img.shields.io/badge/-Tailwind-0969da?style=flat&logo=tailwindcss&logoColor=ffffff" alt="Tailwind"/>
+  </picture>
+</a>&nbsp;
 
 <a href="https://www.postgresql.org/" target="_blank">
   <picture>
@@ -61,29 +67,6 @@
 
 ##### Other stacks:
 <p>
-<a href="https://www.linuxmint.com/" target="_blank">
-  <picture>
-    <source align="center" media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/badge/-Linux-05122A?style=flat&logo=linux%20mint&logoColor=5bb450" alt="Linux"/>
-    <img align="center" src="https://img.shields.io/badge/-Linux-0969da?style=flat&logo=linux%20mint&logoColor=ffffff" alt="Linux"/>
-  </picture>
-</a>&nbsp;
-
-<a href="https://aws.amazon.com/" target="_blank">
-  <picture>
-    <source align="center" media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/badge/-AWS-05122A?style=flat&logo=iCloud&logoColor=5bb450" alt="AWS"/>
-    <img align="center" src="https://img.shields.io/badge/-AWS-0969da?style=flat&logo=iCloud&logoColor=ffffff" alt="AWS"/>
-  </picture>
-</a>&nbsp;
-
-<a href="" target="_blank">
-  <picture>
-    <source align="center" media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/badge/-Jest-05122A?style=flat&logo=Jest&logoColor=5bb450" alt="Jest"/>
-    <img align="center" src="https://img.shields.io/badge/-Jest-0969da?style=flat&logo=Jest&logoColor=ffffff" alt="Jest"/>
-  </picture>
-</a>&nbsp;
-</p>
-<p>
- 
 <a href="https://dotnet.microsoft.com/pt-br/" target="_blank">
   <picture>
     <source align="center" media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/badge/-.NET-05122A?style=flat&logo=.net&logoColor=5bb450" alt=".NET"/>
@@ -106,6 +89,29 @@
 </a>&nbsp;
 </p>
 <p>
+<a href="https://www.linuxmint.com/" target="_blank">
+  <picture>
+    <source align="center" media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/badge/-Linux-05122A?style=flat&logo=linux%20mint&logoColor=5bb450" alt="Linux"/>
+    <img align="center" src="https://img.shields.io/badge/-Linux-0969da?style=flat&logo=linux%20mint&logoColor=ffffff" alt="Linux"/>
+  </picture>
+</a>&nbsp;
+
+<a href="https://aws.amazon.com/" target="_blank">
+  <picture>
+    <source align="center" media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/badge/-AWS-05122A?style=flat&logo=iCloud&logoColor=5bb450" alt="AWS"/>
+    <img align="center" src="https://img.shields.io/badge/-AWS-0969da?style=flat&logo=iCloud&logoColor=ffffff" alt="AWS"/>
+  </picture>
+</a>&nbsp;
+
+<a href="" target="_blank">
+  <picture>
+    <source align="center" media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/badge/-Jest-05122A?style=flat&logo=Jest&logoColor=5bb450" alt="Jest"/>
+    <img align="center" src="https://img.shields.io/badge/-Jest-0969da?style=flat&logo=Jest&logoColor=ffffff" alt="Jest"/>
+  </picture>
+</a>&nbsp;
+</p>
+
+<p>
 <a href="https://redis.io/" target="_blank">
   <picture>
     <source align="center" media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/badge/-Redis-05122A?style=flat&logo=Redis&logoColor=5bb450" alt="Redis"/>
@@ -117,13 +123,6 @@
   <picture>
     <source align="center" media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/badge/-MongoDB-05122A?style=flat&logo=mongodb&logoColor=5bb450" alt="MongoDB"/>
     <img align="center" src="https://img.shields.io/badge/-MongoDB-0969da?style=flat&logo=mongodb&logoColor=ffffff" alt="MongoDB"/>
-  </picture>
-</a>&nbsp;
-	
-<a href="https://typeorm.io/" target="_blank">
-  <picture>
-    <source align="center" media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/badge/-TypeORM-05122A?style=flat&logo=scala&logoColor=5bb450" alt="TypeORM"/>
-    <img align="center" src="https://img.shields.io/badge/-TypeORM-0969da?style=flat&logo=scala&logoColor=ffffff" alt="TypeORM"/>
   </picture>
 </a>&nbsp;
 </p>
