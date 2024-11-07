@@ -18,8 +18,8 @@
 
 <a href="https://gin-gonic.com/" target="_blank">
   <picture>
-    <source align="center" media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/badge/-Gin-05122A?style=flat&logo=gin&logoColor=5bb450" alt="Gin"/> 
-    <img align="center" src="https://img.shields.io/badge/-Gin-0969da?style=flat&logo=gin&logoColor=ffffff" alt="Gin"/>
+    <source align="center" media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/badge/-Go/Gin-05122A?style=flat&logo=gin&logoColor=5bb450" alt="Gin"/> 
+    <img align="center" src="https://img.shields.io/badge/-Go/Gin-0969da?style=flat&logo=gin&logoColor=ffffff" alt="Gin"/>
   </picture>
 </a>&nbsp;
 
@@ -61,24 +61,24 @@
 
 ##### Other stacks:
 <p>
-<a href="https://www.rust-lang.org/" target="_blank">
+<a href="https://www.linuxmint.com/" target="_blank">
   <picture>
-    <source align="center" media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/badge/-Rust-05122A?style=flat&logo=rust&logoColor=5bb450" alt="Rust"/>
-    <img align="center" src="https://img.shields.io/badge/-Rust-0969da?style=flat&logo=rust&logoColor=ffffff" alt="Rust"/>
+    <source align="center" media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/badge/-Linux-05122A?style=flat&logo=linux%20mint&logoColor=5bb450" alt="Linux"/>
+    <img align="center" src="https://img.shields.io/badge/-Linux-0969da?style=flat&logo=linux%20mint&logoColor=ffffff" alt="Linux"/>
   </picture>
 </a>&nbsp;
 
-<a href="https://typeorm.io/" target="_blank">
+<a href="https://aws.amazon.com/" target="_blank">
   <picture>
-    <source align="center" media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/badge/-TypeORM-05122A?style=flat&logo=scala&logoColor=5bb450" alt="TypeORM"/>
-    <img align="center" src="https://img.shields.io/badge/-TypeORM-0969da?style=flat&logo=scala&logoColor=ffffff" alt="TypeORM"/>
+    <source align="center" media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/badge/-AWS-05122A?style=flat&logo=iCloud&logoColor=5bb450" alt="AWS"/>
+    <img align="center" src="https://img.shields.io/badge/-AWS-0969da?style=flat&logo=iCloud&logoColor=ffffff" alt="AWS"/>
   </picture>
 </a>&nbsp;
 
-<a href="https://gorm.io/index.html" target="_blank">
+<a href="" target="_blank">
   <picture>
-    <source align="center" media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/badge/-GORM-05122A?style=flat&logo=goland&logoColor=5bb450" alt="GORM"/>
-    <img align="center" src="https://img.shields.io/badge/-GORM-0969da?style=flat&logo=goland&logoColor=ffffff" alt="GORM"/>
+    <source align="center" media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/badge/-Jest-05122A?style=flat&logo=Jest&logoColor=5bb450" alt="Jest"/>
+    <img align="center" src="https://img.shields.io/badge/-Jest-0969da?style=flat&logo=Jest&logoColor=ffffff" alt="Jest"/>
   </picture>
 </a>&nbsp;
 </p>
@@ -98,35 +98,14 @@
   </picture>
 </a>&nbsp;
 
-<a href="https://nextjs.org/" target="_blank">
+<a href="https://www.rust-lang.org/" target="_blank">
   <picture>
-    <source align="center" media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/badge/-NextJS-05122A?style=flat&logo=next.js&logoColor=5bb450" alt="NextJS"/>
-    <img align="center" src="https://img.shields.io/badge/-NextJS-0969da?style=flat&logo=next.js&logoColor=ffffff" alt="NextJS"/>
+    <source align="center" media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/badge/-Rust-05122A?style=flat&logo=rust&logoColor=5bb450" alt="Rust"/>
+    <img align="center" src="https://img.shields.io/badge/-Rust-0969da?style=flat&logo=rust&logoColor=ffffff" alt="Rust"/>
   </picture>
 </a>&nbsp;
 </p>
 <p>
-<a href="https://aws.amazon.com/" target="_blank">
-  <picture>
-    <source align="center" media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/badge/-AWS-05122A?style=flat&logo=iCloud&logoColor=5bb450" alt="AWS"/>
-    <img align="center" src="https://img.shields.io/badge/-AWS-0969da?style=flat&logo=iCloud&logoColor=ffffff" alt="AWS"/>
-  </picture>
-</a>&nbsp;
-
-<a href="https://www.linuxmint.com/" target="_blank">
-  <picture>
-    <source align="center" media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/badge/-Linux-05122A?style=flat&logo=linux%20mint&logoColor=5bb450" alt="Linux"/>
-    <img align="center" src="https://img.shields.io/badge/-Linux-0969da?style=flat&logo=linux%20mint&logoColor=ffffff" alt="Linux"/>
-  </picture>
-</a>&nbsp;
-
-<a href="https://www.linuxmint.com/" target="_blank">
-  <picture>
-    <source align="center" media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/badge/-Jest-05122A?style=flat&logo=Jest&logoColor=5bb450" alt="Jest"/>
-    <img align="center" src="https://img.shields.io/badge/-Jest-0969da?style=flat&logo=Jest&logoColor=ffffff" alt="Jest"/>
-  </picture>
-</a>&nbsp;
-</p><p>
 <a href="https://redis.io/" target="_blank">
   <picture>
     <source align="center" media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/badge/-Redis-05122A?style=flat&logo=Redis&logoColor=5bb450" alt="Redis"/>
@@ -134,17 +113,17 @@
   </picture>
 </a>&nbsp;
 	
-<a href="https://www.mysql.com/" target="_blank">
-  <picture>
-    <source align="center" media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/badge/-MySQL-05122A?style=flat&logo=mysql&logoColor=5bb450" alt="MySQL"/>
-    <img align="center" src="https://img.shields.io/badge/-MySQL-0969da?style=flat&logo=mysql&logoColor=ffffff" alt="MySQL"/>
-  </picture>
-</a>&nbsp;
-
 <a href="https://www.mongodb.com/" target="_blank">
   <picture>
     <source align="center" media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/badge/-MongoDB-05122A?style=flat&logo=mongodb&logoColor=5bb450" alt="MongoDB"/>
     <img align="center" src="https://img.shields.io/badge/-MongoDB-0969da?style=flat&logo=mongodb&logoColor=ffffff" alt="MongoDB"/>
+  </picture>
+</a>&nbsp;
+	
+<a href="https://typeorm.io/" target="_blank">
+  <picture>
+    <source align="center" media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/badge/-TypeORM-05122A?style=flat&logo=scala&logoColor=5bb450" alt="TypeORM"/>
+    <img align="center" src="https://img.shields.io/badge/-TypeORM-0969da?style=flat&logo=scala&logoColor=ffffff" alt="TypeORM"/>
   </picture>
 </a>&nbsp;
 </p>
