@@ -16,10 +16,10 @@
 #### Currently working with:
 <p>
 
-<a href="https://dotnet.microsoft.com/pt-br/" target="_blank">
+<a href="https://gin-gonic.com/" target="_blank">
   <picture>
-    <source align="center" media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/badge/-.NET-05122A?style=flat&logo=.net&logoColor=5bb450" alt=".NET"/>
-    <img align="center" src="https://img.shields.io/badge/-.NET-0969da?style=flat&logo=.net&logoColor=ffffff" alt=".NET"/>
+    <source align="center" media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/badge/-Gin-05122A?style=flat&logo=gin&logoColor=5bb450" alt="Gin"/> 
+    <img align="center" src="https://img.shields.io/badge/-Gin-0969da?style=flat&logo=gin&logoColor=ffffff" alt="Gin"/>
   </picture>
 </a>&nbsp;
 
@@ -44,10 +44,10 @@
   </picture>
 </a>&nbsp;
 
-<a href="https://learn.microsoft.com/en-us/sql/sql-server/?view=sql-server-ver16" target="_blank">
+<a href="https://docker.com/" target="_blank">
   <picture>
-    <source align="center" media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/badge/-SQL-05122A?style=flat&logo=rxdb&logoColor=5bb450" alt="SQL Server"/>
-    <img align="center" src="https://img.shields.io/badge/-SQL-0969da?style=flat&logo=rxdb&logoColor=ffffff" alt="SQL Server"/>
+    <source align="center" media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/badge/-Docker-05122A?style=flat&logo=docker&logoColor=5bb450" alt="Docker"/>
+    <img align="center" src="https://img.shields.io/badge/-Docker-0969da?style=flat&logo=docker&logoColor=ffffff" alt="Docker"/>
   </picture>
 </a>&nbsp;
 
@@ -67,11 +67,11 @@
     <img align="center" src="https://img.shields.io/badge/-Rust-0969da?style=flat&logo=rust&logoColor=ffffff" alt="Rust"/>
   </picture>
 </a>&nbsp;
-	
-<a href="https://gin-gonic.com/" target="_blank">
+
+<a href="https://typeorm.io/" target="_blank">
   <picture>
-    <source align="center" media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/badge/-Gin-05122A?style=flat&logo=gin&logoColor=5bb450" alt="Gin"/> 
-    <img align="center" src="https://img.shields.io/badge/-Gin-0969da?style=flat&logo=gin&logoColor=ffffff" alt="Gin"/>
+    <source align="center" media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/badge/-TypeORM-05122A?style=flat&logo=scala&logoColor=5bb450" alt="TypeORM"/>
+    <img align="center" src="https://img.shields.io/badge/-TypeORM-0969da?style=flat&logo=scala&logoColor=ffffff" alt="TypeORM"/>
   </picture>
 </a>&nbsp;
 
@@ -83,6 +83,14 @@
 </a>&nbsp;
 </p>
 <p>
+ 
+<a href="https://dotnet.microsoft.com/pt-br/" target="_blank">
+  <picture>
+    <source align="center" media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/badge/-.NET-05122A?style=flat&logo=.net&logoColor=5bb450" alt=".NET"/>
+    <img align="center" src="https://img.shields.io/badge/-.NET-0969da?style=flat&logo=.net&logoColor=ffffff" alt=".NET"/>
+  </picture>
+</a>&nbsp;
+
 <a href="https://nestjs.com/" target="_blank">
   <picture>
     <source align="center" media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/badge/-NestJS-05122A?style=flat&logo=nestjs&logoColor=5bb450" alt="NestJS"/>
@@ -96,13 +104,6 @@
     <img align="center" src="https://img.shields.io/badge/-NextJS-0969da?style=flat&logo=next.js&logoColor=ffffff" alt="NextJS"/>
   </picture>
 </a>&nbsp;
-
-<a href="https://typeorm.io/" target="_blank">
-  <picture>
-    <source align="center" media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/badge/-TypeORM-05122A?style=flat&logo=scala&logoColor=5bb450" alt="TypeORM"/>
-    <img align="center" src="https://img.shields.io/badge/-TypeORM-0969da?style=flat&logo=scala&logoColor=ffffff" alt="TypeORM"/>
-  </picture>
-</a>&nbsp;
 </p>
 <p>
 <a href="https://aws.amazon.com/" target="_blank">
@@ -112,31 +113,31 @@
   </picture>
 </a>&nbsp;
 
-<a href="https://docker.com/" target="_blank">
+<a href="https://www.linuxmint.com/" target="_blank">
   <picture>
-    <source align="center" media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/badge/-Docker-05122A?style=flat&logo=docker&logoColor=5bb450" alt="Docker"/>
-    <img align="center" src="https://img.shields.io/badge/-Docker-0969da?style=flat&logo=docker&logoColor=ffffff" alt="Docker"/>
+    <source align="center" media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/badge/-Linux-05122A?style=flat&logo=linux%20mint&logoColor=5bb450" alt="Linux"/>
+    <img align="center" src="https://img.shields.io/badge/-Linux-0969da?style=flat&logo=linux%20mint&logoColor=ffffff" alt="Linux"/>
   </picture>
 </a>&nbsp;
 
 <a href="https://www.linuxmint.com/" target="_blank">
   <picture>
-    <source align="center" media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/badge/-Linux-05122A?style=flat&logo=linux%20mint&logoColor=5bb450" alt="Docker"/>
-    <img align="center" src="https://img.shields.io/badge/-Linux-0969da?style=flat&logo=linux%20mint&logoColor=ffffff" alt="Docker"/>
+    <source align="center" media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/badge/-Jest-05122A?style=flat&logo=Jest&logoColor=5bb450" alt="Jest"/>
+    <img align="center" src="https://img.shields.io/badge/-Jest-0969da?style=flat&logo=Jest&logoColor=ffffff" alt="Jest"/>
   </picture>
 </a>&nbsp;
 </p><p>
-<a href="https://www.mysql.com/" target="_blank">
-  <picture>
-    <source align="center" media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/badge/-MySQL-05122A?style=flat&logo=mysql&logoColor=5bb450" alt="MySQL"/>
-    <img align="center" src="https://img.shields.io/badge/-MySQL-0969da?style=flat&logo=mysql&logoColor=ffffff" alt="MySQL"/>
-  </picture>
-</a>&nbsp;
-	
 <a href="https://redis.io/" target="_blank">
   <picture>
     <source align="center" media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/badge/-Redis-05122A?style=flat&logo=Redis&logoColor=5bb450" alt="Redis"/>
     <img align="center" src="https://img.shields.io/badge/-Redis-0969da?style=flat&logo=Redis&logoColor=ffffff" alt="Redis"/>
+  </picture>
+</a>&nbsp;
+	
+<a href="https://www.mysql.com/" target="_blank">
+  <picture>
+    <source align="center" media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/badge/-MySQL-05122A?style=flat&logo=mysql&logoColor=5bb450" alt="MySQL"/>
+    <img align="center" src="https://img.shields.io/badge/-MySQL-0969da?style=flat&logo=mysql&logoColor=ffffff" alt="MySQL"/>
   </picture>
 </a>&nbsp;
 
