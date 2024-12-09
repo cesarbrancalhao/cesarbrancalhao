@@ -8,10 +8,10 @@
 </picture>
 </a>
 	
-### About me:
-- Systems Analysis student
-- Web/Mobile developer
-- Linux evangelist
+#### About me:
+- Software Engineer
+- Tabs evangelist
+- Coffee machine gun
 	
 #### Currently working with:
 <p>
