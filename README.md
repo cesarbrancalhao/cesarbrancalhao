@@ -10,7 +10,7 @@
 	
 #### About me:
 - Software Engineer
-- Tabs evangelist
+- Linux evangelist
 - Coffee machine gun
 	
 #### Currently working with:
