@@ -11,7 +11,7 @@
 #### About me:
 - Software Engineer
 - Linux evangelist
-- Coffee machine gun
+- Go routines >> my routines
 	
 #### Currently working with:
 <p>
