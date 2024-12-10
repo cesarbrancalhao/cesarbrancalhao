@@ -10,7 +10,7 @@
 	
 #### About me:
 - Software Engineer
-- Linux evangelist (help)
+- Linux evangelist
 - Goroutines >> my routines
 	
 #### Currently working with:
