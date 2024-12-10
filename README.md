@@ -10,8 +10,8 @@
 	
 #### About me:
 - Software Engineer
-- Linux evangelist
-- Go routines >> my routines
+- Linux evangelist (help)
+- Goroutines >> my routines
 	
 #### Currently working with:
 <p>
