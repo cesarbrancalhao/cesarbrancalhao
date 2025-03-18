@@ -103,10 +103,10 @@
   </picture>
 </a>&nbsp;
 
-<a href="" target="_blank">
+<a href="https://www.mongodb.com/" target="_blank">
   <picture>
-    <source align="center" media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/badge/-Jest-05122A?style=flat&logo=Jest&logoColor=5bb450" alt="Jest"/>
-    <img align="center" src="https://img.shields.io/badge/-Jest-0969da?style=flat&logo=Jest&logoColor=ffffff" alt="Jest"/>
+    <source align="center" media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/badge/-MongoDB-05122A?style=flat&logo=mongodb&logoColor=5bb450" alt="MongoDB"/>
+    <img align="center" src="https://img.shields.io/badge/-MongoDB-0969da?style=flat&logo=mongodb&logoColor=ffffff" alt="MongoDB"/>
   </picture>
 </a>&nbsp;
 </p>
@@ -118,21 +118,18 @@
     <img align="center" src="https://img.shields.io/badge/-Redis-0969da?style=flat&logo=Redis&logoColor=ffffff" alt="Redis"/>
   </picture>
 </a>&nbsp;
-	
-<a href="https://www.mongodb.com/" target="_blank">
-  <picture>
-    <source align="center" media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/badge/-MongoDB-05122A?style=flat&logo=mongodb&logoColor=5bb450" alt="MongoDB"/>
-    <img align="center" src="https://img.shields.io/badge/-MongoDB-0969da?style=flat&logo=mongodb&logoColor=ffffff" alt="MongoDB"/>
-  </picture>
-</a>&nbsp;
-</p>
 
-##### Learning:
-<p>
 <a href="https://www.rabbitmq.com/" target="_blank">
   <picture>
     <source align="center" media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/badge/-RabbitMQ-05122A?style=flat&logo=rabbitmq&logoColor=5bb450" alt="RabbitMQ"/>
     <img align="center" src="https://img.shields.io/badge/-RabbitMQ-0969da?style=flat&logo=rabbitmq&logoColor=ffffff" alt="RabbitMQ"/>
+  </picture>
+</a>&nbsp;
+
+<a href="" target="_blank">
+  <picture>
+    <source align="center" media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/badge/-Jest-05122A?style=flat&logo=Jest&logoColor=5bb450" alt="Jest"/>
+    <img align="center" src="https://img.shields.io/badge/-Jest-0969da?style=flat&logo=Jest&logoColor=ffffff" alt="Jest"/>
   </picture>
 </a>&nbsp;
 </p>
