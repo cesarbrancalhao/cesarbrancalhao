@@ -11,7 +11,7 @@
 #### About me:
 - Software Engineer
 - Linux evangelist
-- In IT since 2017
+- IT professional since 2017
 	
 #### Currently working with:
 <p>
