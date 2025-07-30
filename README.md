@@ -10,7 +10,7 @@
 	
 #### About me:
 - Software Engineer
-- Linux evangelist :)
+- Linux evangelist
 	
 #### Currently working with:
 <p>
